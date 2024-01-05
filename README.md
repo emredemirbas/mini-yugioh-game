@@ -1,4 +1,4 @@
-# Mini YuGiOh! Game
+# Mini Yu-Gi-Oh! Game
  A turn-based card game project inspired by the Yu-Gi-Oh! Trading Card Game, implemented in C++.
  
 ![samplecards](https://github.com/emredemirbas/MiniYuGiOhGame/assets/103829617/2b866768-daa3-405e-8b92-f6cdeccb162d)
