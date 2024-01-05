@@ -30,7 +30,7 @@ Phases of The Game
 • Draw Phase is at the very beginning of each turn. The turn player draws one card from the top of their deck during this time.
 
 2. Main Phase
-• Main Phase is a phase that occurs right after Draw Phase. In this phase, player must choose a card to play from his/her hand. 
+• Main Phase is a phase that occurs right after Draw Phase. In this phase, player must choose a card to play from his/her hand (with left click). 
 User should left click on the card that he/she wants to play.
 
 • Option 1: If current player chooses a monster card to play, this monster card will be played in ATK mode if ATK point > DEF point.
@@ -48,7 +48,7 @@ User should right click on that monster if he/she wants to change mode one of th
 
 • Battle phase is the third and last phase of the player's turn. In this phase, you can declare attacks.
  
-• You should choose an attacker monster from your monster field with left click. If there are no monsters in opponent's monster zone, a direct attack is declared. Which means, inflicting damage equal to the attacking monster's ATK points.
+• You should choose an attacker monster from your monster field (with left click). If there are no monsters in opponent's monster zone, a direct attack is declared. Which means, inflicting damage equal to the attacking monster's ATK points.
 
 • But if there are monster(s) in your opponent's field, you should choose a target right after you choose an attacker from your field.
 
