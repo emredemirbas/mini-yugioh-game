@@ -87,7 +87,7 @@ How to win the duel?
 
 • It's a rare and powerful strategy, so keep an eye on the cards you and your opponent draw. 
 
-Note that only Yugi Moto has Exodia cards in our game.
+Note that only Yugi Moto has Exodia cards in this game.
 
 How to run the game?
 
