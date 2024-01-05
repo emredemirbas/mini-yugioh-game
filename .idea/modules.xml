@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MiniYuGiOhGUI.iml" filepath="$PROJECT_DIR$/.idea/MiniYuGiOhGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MiniYuGiOhGame.iml" filepath="$PROJECT_DIR$/.idea/MiniYuGiOhGame.iml" />
+    </modules>
+  </component>
+</project>
