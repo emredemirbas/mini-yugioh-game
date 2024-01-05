@@ -27,9 +27,11 @@
 Phases of The Game
 
 1. Draw Phase
+
 • Draw Phase is at the very beginning of each turn. The turn player draws one card from the top of their deck during this time.
 
 2. Main Phase
+
 • Main Phase is a phase that occurs right after Draw Phase. In this phase, player must choose a card to play from his/her hand (with left click). 
 User should left click on the card that he/she wants to play.
 
