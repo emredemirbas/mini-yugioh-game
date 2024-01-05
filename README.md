@@ -26,10 +26,10 @@
 
 Phases of The Game
 
-1) Draw Phase
+1. Draw Phase
 • Draw Phase is at the very beginning of each turn. The turn player draws one card from the top of their deck during this time.
 
-2) Main Phase
+2. Main Phase
 • Main Phase is a phase that occurs right after Draw Phase. In this phase, player must choose a card to play from his/her hand. 
 User should left click on the card that he/she wants to play.
 
@@ -44,7 +44,7 @@ which trap card have been played. Unique functionality of this trap card will be
 • User is also able to change mode of one of his/her active monster(optional). Maximum one monster is allowed in each main phase. 
 User should right click on that monster if he/she wants to change mode one of the monsters.
 
-3) Battle Phase
+3. Battle Phase
 
 • Battle phase is the third and last phase of the player's turn. In this phase, you can declare attacks.
  
@@ -64,7 +64,7 @@ Note that Battle Phase of a player is automatically skipped in following cases:
 
 How to win the duel?
 
-1) Life Point Victory
+1. Life Point Victory
 • Each player starts with a 8000 life points.
 
 • The primary goal is to reduce your opponent's life points to zero.
@@ -73,13 +73,13 @@ How to win the duel?
 
 • Additionally, certain card effects may reduce or increase life points.
 
-2) Deck Exhaustion
+2. Deck Exhaustion
 
 • Also, you win if your opponent doesn't have any cards left in their deck, along with reducing their life points to zero.
 
 • If a player tries to draw a card and has none left in their deck, the other player wins.
 
-3) Exodia Victory
+3. Exodia Victory
 • There's a legendary win condition known as "Exodia."
 
 • If a player successfully assembles all five pieces of Exodia in their hand (Head, Right Leg, Left Leg, Right Arm, Left Arm) at the same time, that player immediately wins the duel.
