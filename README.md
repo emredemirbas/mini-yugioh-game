@@ -65,6 +65,7 @@ Note that Battle Phase of a player is automatically skipped in following cases:
 How to win the duel?
 
 1. Life Point Victory
+
 • Each player starts with a 8000 life points.
 
 • The primary goal is to reduce your opponent's life points to zero.
