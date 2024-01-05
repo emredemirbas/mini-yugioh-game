@@ -83,6 +83,7 @@ How to win the duel?
 • If a player tries to draw a card and has none left in their deck, the other player wins.
 
 3. Exodia Victory
+
 • There's a legendary win condition known as "Exodia."
 
 • If a player successfully assembles all five pieces of Exodia in their hand (Head, Right Leg, Left Leg, Right Arm, Left Arm) at the same time, that player immediately wins the duel.
