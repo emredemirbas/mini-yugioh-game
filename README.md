@@ -54,13 +54,14 @@ User should right click on that monster if he/she wants to change mode one of th
 
 • But if there are monster(s) in your opponent's field, you should choose a target right after you choose an attacker from your field.
 
+• When the current player declares an attack in this phase but opposing player has a trap card in his/her field, then unique functionality of this trap card will be activated and opposing player will block the attack of current player.
+
 Note that Battle Phase of a player is automatically skipped in following cases:
 
 • If it's the first or second round, the Battle Phase is automatically skipped, adding an extra layer of strategy to early-game play.
 
 • If current player has no attacking monster in his field (means that his monster field may be fully empty or there are monsters that in defense mode.)
 
-• When the current player declares an attack in this phase but opposing player has a trap card in his/her field, then unique functionality of this trap card will be activated and opposing player will block the attack of current player.
 
 ![11](https://github.com/emredemirbas/MiniYuGiOhGame/assets/103829617/9956872b-4d9c-42e3-a5bd-ef9d983f6535)
 
