@@ -6,6 +6,10 @@
       <Path>index.html</Path>
       <Subnodes>
        <Node>
+        <Name>Mini Yu-Gi-Oh! Game</Name>
+        <Path>index.html</Path>
+       </Node>
+       <Node>
         <Name>Classes</Name>
         <Path>annotated.html</Path>
       <Subnodes>
@@ -15,1124 +19,1124 @@
         <Subnodes>
            <Node>
             <Name>Card</Name>
-            <Path>class_card.html</Path>
+            <Path>d5/d6a/class_card.html</Path>
           <Subnodes>
              <Node>
               <Name>Card</Name>
-              <Path>class_card.html</Path>
+              <Path>d5/d6a/class_card.html</Path>
               <Anchor>aeaa66841468961758db65393450bc44b</Anchor>
              </Node>
              <Node>
               <Name>~Card</Name>
-              <Path>class_card.html</Path>
+              <Path>d5/d6a/class_card.html</Path>
               <Anchor>a4e05b0b68e43e5e76c6194458cee874f</Anchor>
              </Node>
              <Node>
               <Name>flip</Name>
-              <Path>class_card.html</Path>
+              <Path>d5/d6a/class_card.html</Path>
               <Anchor>ac9e1cecfe41118bdd2f019831549dd2a</Anchor>
              </Node>
              <Node>
               <Name>getCardDetails</Name>
-              <Path>class_card.html</Path>
+              <Path>d5/d6a/class_card.html</Path>
               <Anchor>a4ab6feabe926a37fe987c06238633bf3</Anchor>
              </Node>
              <Node>
               <Name>getCardTexture</Name>
-              <Path>class_card.html</Path>
+              <Path>d5/d6a/class_card.html</Path>
               <Anchor>ac2ad8cc0b03628cf46b37c6e9369c4b7</Anchor>
              </Node>
              <Node>
               <Name>getDescription</Name>
-              <Path>class_card.html</Path>
+              <Path>d5/d6a/class_card.html</Path>
               <Anchor>ad8292653b62ffab05af810d3be240161</Anchor>
              </Node>
              <Node>
               <Name>getName</Name>
-              <Path>class_card.html</Path>
+              <Path>d5/d6a/class_card.html</Path>
               <Anchor>a906ec0559a62e3bed4ccd518cacbe34c</Anchor>
              </Node>
              <Node>
               <Name>isFacedUp</Name>
-              <Path>class_card.html</Path>
+              <Path>d5/d6a/class_card.html</Path>
               <Anchor>a36cc972608cd7ea51784dd7e2c22e5e5</Anchor>
              </Node>
              <Node>
               <Name>setCardTexture</Name>
-              <Path>class_card.html</Path>
+              <Path>d5/d6a/class_card.html</Path>
               <Anchor>aac0ab3f69c6099af64b31d301590f8f4</Anchor>
              </Node>
              <Node>
               <Name>setIsFaceUp</Name>
-              <Path>class_card.html</Path>
+              <Path>d5/d6a/class_card.html</Path>
               <Anchor>aff4d7000d02a0b138134e78423b15966</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>Deck</Name>
-            <Path>class_deck.html</Path>
+            <Path>d6/deb/class_deck.html</Path>
           <Subnodes>
              <Node>
               <Name>Deck</Name>
-              <Path>class_deck.html</Path>
+              <Path>d6/deb/class_deck.html</Path>
               <Anchor>a57ae1cb4ac6fd61c249cefb2db85eb99</Anchor>
              </Node>
              <Node>
               <Name>~Deck</Name>
-              <Path>class_deck.html</Path>
+              <Path>d6/deb/class_deck.html</Path>
               <Anchor>a7d1331cc558c302fdf44e5ae8aae1a95</Anchor>
              </Node>
              <Node>
               <Name>addCard</Name>
-              <Path>class_deck.html</Path>
+              <Path>d6/deb/class_deck.html</Path>
               <Anchor>a0251bfdd3bb8fd58ee40b67429567dd9</Anchor>
              </Node>
              <Node>
               <Name>drawCard</Name>
-              <Path>class_deck.html</Path>
+              <Path>d6/deb/class_deck.html</Path>
               <Anchor>a3479880ac4511d593c7cd72811c077cc</Anchor>
              </Node>
              <Node>
               <Name>getCards</Name>
-              <Path>class_deck.html</Path>
+              <Path>d6/deb/class_deck.html</Path>
               <Anchor>a04595e1e1bd2ae1d059c8173061e69b5</Anchor>
              </Node>
              <Node>
               <Name>shuffle</Name>
-              <Path>class_deck.html</Path>
+              <Path>d6/deb/class_deck.html</Path>
               <Anchor>ae5a1e52ab00ae5924f2bc6b730dba3eb</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GameManager</Name>
-            <Path>class_game_manager.html</Path>
+            <Path>db/d10/class_game_manager.html</Path>
           <Subnodes>
              <Node>
               <Name>GameManager</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>aa0e2424dc1a39d380e5b6605b179bf05</Anchor>
              </Node>
              <Node>
               <Name>~GameManager</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>aaae63e38e358379c1fe507c5197a8435</Anchor>
              </Node>
              <Node>
               <Name>activateTrapCard</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>a28eb1135f5c0d1b5b32cd26cce713c86</Anchor>
              </Node>
              <Node>
               <Name>attackLifePoints</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>affdff9eaf0e78bbad6a1856991bc8cf5</Anchor>
              </Node>
              <Node>
               <Name>battlePhase</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>afa8c0fa0889d071fc2d7ae6b1cbffc5b</Anchor>
              </Node>
              <Node>
               <Name>changeCardMode</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>aa4c5786cf2008c39b461c4fb5810f684</Anchor>
              </Node>
              <Node>
               <Name>declareAttack</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>a2670bc6d6fd0fae989f806db8f0448ef</Anchor>
              </Node>
              <Node>
               <Name>determineWinner</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>a1583887886dff027be65fa303e6c1137</Anchor>
              </Node>
              <Node>
               <Name>drawPhase</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>af58188188f3f333919d59e43937810f0</Anchor>
              </Node>
              <Node>
               <Name>endPhase</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>aad94126a86d0c5bbde4e02bec42f6dcc</Anchor>
              </Node>
              <Node>
               <Name>getCurrentPlayer</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>a6e5d8feef45005df46b1f7bb819fd4ed</Anchor>
              </Node>
              <Node>
               <Name>getGameState</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>a00f08ab3f25f9e989d101903d60e6099</Anchor>
              </Node>
              <Node>
               <Name>getIsCurrentPlayerChangedCardModeAtMP</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>aa3a2553b7762ccfa378f3ad5d152628e</Anchor>
              </Node>
              <Node>
               <Name>getIsCurrentPlayerPlayedCardAtMP</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>aa9654efeee4f3400da9ab13edf5ae2fb</Anchor>
              </Node>
              <Node>
               <Name>getOpposingPlayer</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>a228f12f7cddb42e6fe963ba1f2101dab</Anchor>
              </Node>
              <Node>
               <Name>initializeGame</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>a280a096273dde3fa35bd20409c78ba58</Anchor>
              </Node>
              <Node>
               <Name>mainPhase</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>a6363096051125d31fa9be76a244c0f0a</Anchor>
              </Node>
              <Node>
               <Name>restartTheGame</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>a577d4add278792444c455af2ab4e5d8e</Anchor>
              </Node>
              <Node>
               <Name>swapPlayers</Name>
-              <Path>class_game_manager.html</Path>
+              <Path>db/d10/class_game_manager.html</Path>
               <Anchor>a862d3b5ef7a9216d7d5f68a49f15c12b</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUICardInfoPanel</Name>
-            <Path>class_g_u_i_card_info_panel.html</Path>
+            <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
           <Subnodes>
              <Node>
               <Name>GUICardInfoPanel</Name>
-              <Path>class_g_u_i_card_info_panel.html</Path>
+              <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
               <Anchor>a5235d9e328e7422af4d090927ba79532</Anchor>
              </Node>
              <Node>
               <Name>GUICardInfoPanel</Name>
-              <Path>class_g_u_i_card_info_panel.html</Path>
+              <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
               <Anchor>a85bc8469f9d79fd0f22aaf864d97b765</Anchor>
              </Node>
              <Node>
               <Name>~GUICardInfoPanel</Name>
-              <Path>class_g_u_i_card_info_panel.html</Path>
+              <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
               <Anchor>a1d17bd2fac5e1a66981c7113b2fb7204</Anchor>
              </Node>
              <Node>
               <Name>createText</Name>
-              <Path>class_g_u_i_card_info_panel.html</Path>
+              <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
               <Anchor>a79fac083cd00a926ba620ee17bed2826</Anchor>
              </Node>
              <Node>
               <Name>draw</Name>
-              <Path>class_g_u_i_card_info_panel.html</Path>
+              <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
               <Anchor>ac0daa41972b98e0091d3c2fc7226a7ac</Anchor>
              </Node>
              <Node>
               <Name>setCardDescription</Name>
-              <Path>class_g_u_i_card_info_panel.html</Path>
+              <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
               <Anchor>a0287652058427adfc1667a160f64201a</Anchor>
              </Node>
              <Node>
               <Name>setCardImage</Name>
-              <Path>class_g_u_i_card_info_panel.html</Path>
+              <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
               <Anchor>a69175b6a6de0abeb3ab25aafa3bc518d</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIGameState</Name>
-            <Path>class_g_u_i_game_state.html</Path>
+            <Path>d1/d51/class_g_u_i_game_state.html</Path>
           <Subnodes>
              <Node>
               <Name>GUIGameState</Name>
-              <Path>class_g_u_i_game_state.html</Path>
+              <Path>d1/d51/class_g_u_i_game_state.html</Path>
               <Anchor>a66863fb544ac6cc59f095d08212f37c9</Anchor>
              </Node>
              <Node>
               <Name>~GUIGameState</Name>
-              <Path>class_g_u_i_game_state.html</Path>
+              <Path>d1/d51/class_g_u_i_game_state.html</Path>
               <Anchor>ae93f770a1554ae5b92fa5253509b3560</Anchor>
              </Node>
              <Node>
               <Name>getGUIGameState</Name>
-              <Path>class_g_u_i_game_state.html</Path>
+              <Path>d1/d51/class_g_u_i_game_state.html</Path>
               <Anchor>a1990e91f5f1999201101e36a4ef6067e</Anchor>
              </Node>
              <Node>
               <Name>getPreviousState</Name>
-              <Path>class_g_u_i_game_state.html</Path>
+              <Path>d1/d51/class_g_u_i_game_state.html</Path>
               <Anchor>aa7bea67e381f68bc76c211964ae4a90c</Anchor>
              </Node>
              <Node>
               <Name>setGUIGameState</Name>
-              <Path>class_g_u_i_game_state.html</Path>
+              <Path>d1/d51/class_g_u_i_game_state.html</Path>
               <Anchor>a4c235b3640402e568632d7c36828d58c</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIGameWindow</Name>
-            <Path>class_g_u_i_game_window.html</Path>
+            <Path>df/db5/class_g_u_i_game_window.html</Path>
           <Subnodes>
              <Node>
               <Name>GUIGameWindow</Name>
-              <Path>class_g_u_i_game_window.html</Path>
+              <Path>df/db5/class_g_u_i_game_window.html</Path>
               <Anchor>a9267d0c9f33c7f066bf2c994238073f6</Anchor>
              </Node>
              <Node>
               <Name>~GUIGameWindow</Name>
-              <Path>class_g_u_i_game_window.html</Path>
+              <Path>df/db5/class_g_u_i_game_window.html</Path>
               <Anchor>adec3cd67ca3711586ca736a8a48c3d65</Anchor>
              </Node>
              <Node>
               <Name>display</Name>
-              <Path>class_g_u_i_game_window.html</Path>
+              <Path>df/db5/class_g_u_i_game_window.html</Path>
               <Anchor>ab23d521bc5474a70c9373cb756a4ddd6</Anchor>
              </Node>
              <Node>
               <Name>isRunning</Name>
-              <Path>class_g_u_i_game_window.html</Path>
+              <Path>df/db5/class_g_u_i_game_window.html</Path>
               <Anchor>a7f8472dfd606123f9597639bd4b96d9e</Anchor>
              </Node>
              <Node>
               <Name>update</Name>
-              <Path>class_g_u_i_game_window.html</Path>
+              <Path>df/db5/class_g_u_i_game_window.html</Path>
               <Anchor>a3f84ea04fab69c6e9d651fbec4110c23</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIGraveyard</Name>
-            <Path>class_g_u_i_graveyard.html</Path>
+            <Path>df/d85/class_g_u_i_graveyard.html</Path>
           <Subnodes>
              <Node>
               <Name>GUIGraveyard</Name>
-              <Path>class_g_u_i_graveyard.html</Path>
+              <Path>df/d85/class_g_u_i_graveyard.html</Path>
               <Anchor>a658fbbef0ec32494c56bd53a061fc856</Anchor>
              </Node>
              <Node>
               <Name>GUIGraveyard</Name>
-              <Path>class_g_u_i_graveyard.html</Path>
+              <Path>df/d85/class_g_u_i_graveyard.html</Path>
               <Anchor>a991c08089f0d2cea5b6094ef9e5737e0</Anchor>
              </Node>
              <Node>
               <Name>~GUIGraveyard</Name>
-              <Path>class_g_u_i_graveyard.html</Path>
+              <Path>df/d85/class_g_u_i_graveyard.html</Path>
               <Anchor>a33404db8e0c31659966bbc96c1409bcb</Anchor>
              </Node>
              <Node>
               <Name>draw</Name>
-              <Path>class_g_u_i_graveyard.html</Path>
+              <Path>df/d85/class_g_u_i_graveyard.html</Path>
               <Anchor>ae4e01cdb7ba9f7e96ca031f146dd1037</Anchor>
              </Node>
              <Node>
               <Name>draw</Name>
-              <Path>class_g_u_i_graveyard.html</Path>
+              <Path>df/d85/class_g_u_i_graveyard.html</Path>
               <Anchor>aff4fb47155f84efc2cd94fe5d5c63caa</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIHand</Name>
-            <Path>class_g_u_i_hand.html</Path>
+            <Path>d5/d76/class_g_u_i_hand.html</Path>
           <Subnodes>
              <Node>
               <Name>GUIHand</Name>
-              <Path>class_g_u_i_hand.html</Path>
+              <Path>d5/d76/class_g_u_i_hand.html</Path>
               <Anchor>a6cdbd74e254436a208aba29c097c2f2e</Anchor>
              </Node>
              <Node>
               <Name>GUIHand</Name>
-              <Path>class_g_u_i_hand.html</Path>
+              <Path>d5/d76/class_g_u_i_hand.html</Path>
               <Anchor>a00061b673cfdcb57d7c366112290142b</Anchor>
              </Node>
              <Node>
               <Name>~GUIHand</Name>
-              <Path>class_g_u_i_hand.html</Path>
+              <Path>d5/d76/class_g_u_i_hand.html</Path>
               <Anchor>af85885efcb8d69e67468e360e132dd94</Anchor>
              </Node>
              <Node>
               <Name>draw</Name>
-              <Path>class_g_u_i_hand.html</Path>
+              <Path>d5/d76/class_g_u_i_hand.html</Path>
               <Anchor>a07f3629b3d6f883389d62a19d5989431</Anchor>
              </Node>
              <Node>
               <Name>draw</Name>
-              <Path>class_g_u_i_hand.html</Path>
+              <Path>d5/d76/class_g_u_i_hand.html</Path>
               <Anchor>a3e6c18c4784f6b65540f046c54988576</Anchor>
              </Node>
              <Node>
               <Name>getClickedCardAreaIndex</Name>
-              <Path>class_g_u_i_hand.html</Path>
+              <Path>d5/d76/class_g_u_i_hand.html</Path>
               <Anchor>a6964c9350845a81fce81b07e55454139</Anchor>
              </Node>
              <Node>
               <Name>update</Name>
-              <Path>class_g_u_i_hand.html</Path>
+              <Path>d5/d76/class_g_u_i_hand.html</Path>
               <Anchor>add198f5596332e0b5b76a60ff3af0daa</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUILifeBar</Name>
-            <Path>class_g_u_i_life_bar.html</Path>
+            <Path>de/d92/class_g_u_i_life_bar.html</Path>
           <Subnodes>
              <Node>
               <Name>GUILifeBar</Name>
-              <Path>class_g_u_i_life_bar.html</Path>
+              <Path>de/d92/class_g_u_i_life_bar.html</Path>
               <Anchor>a7640039daeaa86e385911b50fa52bda1</Anchor>
              </Node>
              <Node>
               <Name>GUILifeBar</Name>
-              <Path>class_g_u_i_life_bar.html</Path>
+              <Path>de/d92/class_g_u_i_life_bar.html</Path>
               <Anchor>a1329993a7e4bd304f94ba8880ff3eebb</Anchor>
              </Node>
              <Node>
               <Name>~GUILifeBar</Name>
-              <Path>class_g_u_i_life_bar.html</Path>
+              <Path>de/d92/class_g_u_i_life_bar.html</Path>
               <Anchor>a210ca2bd5e353cf7913d8c80e65b0135</Anchor>
              </Node>
              <Node>
               <Name>draw</Name>
-              <Path>class_g_u_i_life_bar.html</Path>
+              <Path>de/d92/class_g_u_i_life_bar.html</Path>
               <Anchor>ace5cd3bf84bc286a681a55fab0de25cb</Anchor>
              </Node>
              <Node>
               <Name>update</Name>
-              <Path>class_g_u_i_life_bar.html</Path>
+              <Path>de/d92/class_g_u_i_life_bar.html</Path>
               <Anchor>adceb893664505417d6914d4c15fd72a1</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIMainMenuWindow</Name>
-            <Path>class_g_u_i_main_menu_window.html</Path>
+            <Path>d1/dea/class_g_u_i_main_menu_window.html</Path>
           <Subnodes>
              <Node>
               <Name>GUIMainMenuWindow</Name>
-              <Path>class_g_u_i_main_menu_window.html</Path>
+              <Path>d1/dea/class_g_u_i_main_menu_window.html</Path>
               <Anchor>ad7940e3890f3ea709fc73444d7bf5de5</Anchor>
              </Node>
              <Node>
               <Name>~GUIMainMenuWindow</Name>
-              <Path>class_g_u_i_main_menu_window.html</Path>
+              <Path>d1/dea/class_g_u_i_main_menu_window.html</Path>
               <Anchor>a95e7be181d5b18c4c3fa5b3c9d1c6532</Anchor>
              </Node>
              <Node>
               <Name>display</Name>
-              <Path>class_g_u_i_main_menu_window.html</Path>
+              <Path>d1/dea/class_g_u_i_main_menu_window.html</Path>
               <Anchor>ab42257aeb4391aaabc30f8dedbcf1a8f</Anchor>
              </Node>
              <Node>
               <Name>isRunning</Name>
-              <Path>class_g_u_i_main_menu_window.html</Path>
+              <Path>d1/dea/class_g_u_i_main_menu_window.html</Path>
               <Anchor>ae89836c7fa03748068577c7645e9e63f</Anchor>
              </Node>
              <Node>
               <Name>update</Name>
-              <Path>class_g_u_i_main_menu_window.html</Path>
+              <Path>d1/dea/class_g_u_i_main_menu_window.html</Path>
               <Anchor>a97e4ff6321d570daac9c13bab18dc2be</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIPauseMenu</Name>
-            <Path>class_g_u_i_pause_menu.html</Path>
+            <Path>d7/ded/class_g_u_i_pause_menu.html</Path>
           <Subnodes>
              <Node>
               <Name>GUIPauseMenu</Name>
-              <Path>class_g_u_i_pause_menu.html</Path>
+              <Path>d7/ded/class_g_u_i_pause_menu.html</Path>
               <Anchor>a3b97d9742a32fc4bfa2071310d503f3d</Anchor>
              </Node>
              <Node>
               <Name>~GUIPauseMenu</Name>
-              <Path>class_g_u_i_pause_menu.html</Path>
+              <Path>d7/ded/class_g_u_i_pause_menu.html</Path>
               <Anchor>ab2b7ee80fb2f882b400f87b7eb75a241</Anchor>
              </Node>
              <Node>
               <Name>display</Name>
-              <Path>class_g_u_i_pause_menu.html</Path>
+              <Path>d7/ded/class_g_u_i_pause_menu.html</Path>
               <Anchor>a3120b07ccc2a1ea43d02358edb826560</Anchor>
              </Node>
              <Node>
               <Name>isRunning</Name>
-              <Path>class_g_u_i_pause_menu.html</Path>
+              <Path>d7/ded/class_g_u_i_pause_menu.html</Path>
               <Anchor>a561f30f6de59d69ff1fcdb4d3afef4cb</Anchor>
              </Node>
              <Node>
               <Name>update</Name>
-              <Path>class_g_u_i_pause_menu.html</Path>
+              <Path>d7/ded/class_g_u_i_pause_menu.html</Path>
               <Anchor>a84f27280f615b68e8b3787d9b33ca668</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIPhaseText</Name>
-            <Path>class_g_u_i_phase_text.html</Path>
+            <Path>d5/dbc/class_g_u_i_phase_text.html</Path>
           <Subnodes>
              <Node>
               <Name>GUIPhaseText</Name>
-              <Path>class_g_u_i_phase_text.html</Path>
+              <Path>d5/dbc/class_g_u_i_phase_text.html</Path>
               <Anchor>ae758f2296b1da7bba7f73eef7c585672</Anchor>
              </Node>
              <Node>
               <Name>animate</Name>
-              <Path>class_g_u_i_phase_text.html</Path>
+              <Path>d5/dbc/class_g_u_i_phase_text.html</Path>
               <Anchor>ae20ef093eeccbc1f9bd068dd0677ad3d</Anchor>
              </Node>
              <Node>
               <Name>draw</Name>
-              <Path>class_g_u_i_phase_text.html</Path>
+              <Path>d5/dbc/class_g_u_i_phase_text.html</Path>
               <Anchor>aef17b1643c0544a6f6f904216ca88d71</Anchor>
              </Node>
              <Node>
               <Name>draw</Name>
-              <Path>class_g_u_i_phase_text.html</Path>
+              <Path>d5/dbc/class_g_u_i_phase_text.html</Path>
               <Anchor>a5d38d690a71b3810ac30e5c68c051864</Anchor>
              </Node>
              <Node>
               <Name>resetTextPosition</Name>
-              <Path>class_g_u_i_phase_text.html</Path>
+              <Path>d5/dbc/class_g_u_i_phase_text.html</Path>
               <Anchor>a0e7ec4c05dbdf70ae097648982436088</Anchor>
              </Node>
              <Node>
               <Name>setTextString</Name>
-              <Path>class_g_u_i_phase_text.html</Path>
+              <Path>d5/dbc/class_g_u_i_phase_text.html</Path>
               <Anchor>aca1507a3ea11a65d66667ee680e63454</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIPlayerPanel</Name>
-            <Path>class_g_u_i_player_panel.html</Path>
+            <Path>d4/d7c/class_g_u_i_player_panel.html</Path>
           <Subnodes>
              <Node>
               <Name>GUIPlayerPanel</Name>
-              <Path>class_g_u_i_player_panel.html</Path>
+              <Path>d4/d7c/class_g_u_i_player_panel.html</Path>
               <Anchor>af8e820dfc0e92c5f516718cf82d00045</Anchor>
              </Node>
              <Node>
               <Name>GUIPlayerPanel</Name>
-              <Path>class_g_u_i_player_panel.html</Path>
+              <Path>d4/d7c/class_g_u_i_player_panel.html</Path>
               <Anchor>ac0440c361a414c2c1272cf2476db6a39</Anchor>
              </Node>
              <Node>
               <Name>~GUIPlayerPanel</Name>
-              <Path>class_g_u_i_player_panel.html</Path>
+              <Path>d4/d7c/class_g_u_i_player_panel.html</Path>
               <Anchor>a32bb72901f394bb83271f400314aa0d5</Anchor>
              </Node>
              <Node>
               <Name>draw</Name>
-              <Path>class_g_u_i_player_panel.html</Path>
+              <Path>d4/d7c/class_g_u_i_player_panel.html</Path>
               <Anchor>a991eec48472cce659bab35af9a31ce6d</Anchor>
              </Node>
              <Node>
               <Name>draw</Name>
-              <Path>class_g_u_i_player_panel.html</Path>
+              <Path>d4/d7c/class_g_u_i_player_panel.html</Path>
               <Anchor>a0b535efb3fe039f76847391bd04c8029</Anchor>
              </Node>
              <Node>
               <Name>update</Name>
-              <Path>class_g_u_i_player_panel.html</Path>
+              <Path>d4/d7c/class_g_u_i_player_panel.html</Path>
               <Anchor>ae4349624294bb15e2de8c96c5a01fadc</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIPlayingField</Name>
-            <Path>class_g_u_i_playing_field.html</Path>
+            <Path>d8/da0/class_g_u_i_playing_field.html</Path>
           <Subnodes>
              <Node>
               <Name>GUIPlayingField</Name>
-              <Path>class_g_u_i_playing_field.html</Path>
+              <Path>d8/da0/class_g_u_i_playing_field.html</Path>
               <Anchor>a4d990fcadc9892f633c9639ca23bcfa1</Anchor>
              </Node>
              <Node>
               <Name>GUIPlayingField</Name>
-              <Path>class_g_u_i_playing_field.html</Path>
+              <Path>d8/da0/class_g_u_i_playing_field.html</Path>
               <Anchor>ab0cfbf38024219bc9b793d6cb2ce3bcc</Anchor>
              </Node>
              <Node>
               <Name>~GUIPlayingField</Name>
-              <Path>class_g_u_i_playing_field.html</Path>
+              <Path>d8/da0/class_g_u_i_playing_field.html</Path>
               <Anchor>a735771b682654783034f0e892ee87ec4</Anchor>
              </Node>
              <Node>
               <Name>draw</Name>
-              <Path>class_g_u_i_playing_field.html</Path>
+              <Path>d8/da0/class_g_u_i_playing_field.html</Path>
               <Anchor>a71e7a03c0e0cae4f125c7bdc4424287d</Anchor>
              </Node>
              <Node>
               <Name>draw</Name>
-              <Path>class_g_u_i_playing_field.html</Path>
+              <Path>d8/da0/class_g_u_i_playing_field.html</Path>
               <Anchor>a69e8c074880b15c9be2c5bf3a91c5a52</Anchor>
              </Node>
              <Node>
               <Name>getClickedMonsterCardAreaIndex</Name>
-              <Path>class_g_u_i_playing_field.html</Path>
+              <Path>d8/da0/class_g_u_i_playing_field.html</Path>
               <Anchor>a0a37d76f9aa891e7b0017c1480f51439</Anchor>
              </Node>
              <Node>
               <Name>getClickedSpellTrapCardAreaIndex</Name>
-              <Path>class_g_u_i_playing_field.html</Path>
+              <Path>d8/da0/class_g_u_i_playing_field.html</Path>
               <Anchor>a005f293c28a0aa1507c1fa6423aedb5c</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUISettings</Name>
-            <Path>class_g_u_i_settings.html</Path>
+            <Path>df/d39/class_g_u_i_settings.html</Path>
           <Subnodes>
              <Node>
               <Name>GUISettings</Name>
-              <Path>class_g_u_i_settings.html</Path>
+              <Path>df/d39/class_g_u_i_settings.html</Path>
               <Anchor>ad80f445368461011ae65432a56d24ad2</Anchor>
              </Node>
              <Node>
               <Name>~GUISettings</Name>
-              <Path>class_g_u_i_settings.html</Path>
+              <Path>df/d39/class_g_u_i_settings.html</Path>
               <Anchor>a1302bbc2bf5aeaf7b720a0f115a3d0cc</Anchor>
              </Node>
              <Node>
               <Name>display</Name>
-              <Path>class_g_u_i_settings.html</Path>
+              <Path>df/d39/class_g_u_i_settings.html</Path>
               <Anchor>a4cfde3bfb6834cf86285ecdb206768dc</Anchor>
              </Node>
              <Node>
               <Name>getVolumeLevel</Name>
-              <Path>class_g_u_i_settings.html</Path>
+              <Path>df/d39/class_g_u_i_settings.html</Path>
               <Anchor>a4551dd9604f4659caf3c46acf9c8f713</Anchor>
              </Node>
              <Node>
               <Name>initElements</Name>
-              <Path>class_g_u_i_settings.html</Path>
+              <Path>df/d39/class_g_u_i_settings.html</Path>
               <Anchor>a020d4d9b909accf83b72b3cc6f37baaa</Anchor>
              </Node>
              <Node>
               <Name>isRunning</Name>
-              <Path>class_g_u_i_settings.html</Path>
+              <Path>df/d39/class_g_u_i_settings.html</Path>
               <Anchor>a259ed2ca290ecc7bc80302ac65b77690</Anchor>
              </Node>
              <Node>
               <Name>update</Name>
-              <Path>class_g_u_i_settings.html</Path>
+              <Path>df/d39/class_g_u_i_settings.html</Path>
               <Anchor>a93033340499e4a19b736974fcf406f30</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIWindow</Name>
-            <Path>class_g_u_i_window.html</Path>
+            <Path>d4/d38/class_g_u_i_window.html</Path>
           <Subnodes>
              <Node>
               <Name>GUIWindow</Name>
-              <Path>class_g_u_i_window.html</Path>
+              <Path>d4/d38/class_g_u_i_window.html</Path>
               <Anchor>afe83687c002df5b12f5ea8bb5c998de1</Anchor>
              </Node>
              <Node>
               <Name>~GUIWindow</Name>
-              <Path>class_g_u_i_window.html</Path>
+              <Path>d4/d38/class_g_u_i_window.html</Path>
               <Anchor>a9c6d4277ffc74763b0a19fcdf15a5b7c</Anchor>
              </Node>
              <Node>
               <Name>display</Name>
-              <Path>class_g_u_i_window.html</Path>
+              <Path>d4/d38/class_g_u_i_window.html</Path>
               <Anchor>a158f3421d3b58e8ec3030d999003fd99</Anchor>
              </Node>
              <Node>
               <Name>initButtons</Name>
-              <Path>class_g_u_i_window.html</Path>
+              <Path>d4/d38/class_g_u_i_window.html</Path>
               <Anchor>a6afcf4018d52cd543d5a3ecfd469b878</Anchor>
              </Node>
              <Node>
               <Name>initTextures</Name>
-              <Path>class_g_u_i_window.html</Path>
+              <Path>d4/d38/class_g_u_i_window.html</Path>
               <Anchor>ada5bffb83b791fdd0b89bb0194714b20</Anchor>
              </Node>
              <Node>
               <Name>initWindow</Name>
-              <Path>class_g_u_i_window.html</Path>
+              <Path>d4/d38/class_g_u_i_window.html</Path>
               <Anchor>a7c042a534d5916f72ff3000c4982fa85</Anchor>
              </Node>
              <Node>
               <Name>initWindowElements</Name>
-              <Path>class_g_u_i_window.html</Path>
+              <Path>d4/d38/class_g_u_i_window.html</Path>
               <Anchor>aececc676c204322ed32e48638eeebaa7</Anchor>
              </Node>
              <Node>
               <Name>isRunning</Name>
-              <Path>class_g_u_i_window.html</Path>
+              <Path>d4/d38/class_g_u_i_window.html</Path>
               <Anchor>ae2cc4fa0aa8a103279f3eab82af7759b</Anchor>
              </Node>
              <Node>
               <Name>update</Name>
-              <Path>class_g_u_i_window.html</Path>
+              <Path>d4/d38/class_g_u_i_window.html</Path>
               <Anchor>a292fbb8ddba6d122eeb81bd6c32936f4</Anchor>
              </Node>
              <Node>
               <Name>event</Name>
-              <Path>class_g_u_i_window.html</Path>
+              <Path>d4/d38/class_g_u_i_window.html</Path>
               <Anchor>affcfc694355df773f61029a11155bd75</Anchor>
              </Node>
              <Node>
               <Name>window</Name>
-              <Path>class_g_u_i_window.html</Path>
+              <Path>d4/d38/class_g_u_i_window.html</Path>
               <Anchor>af4c3b32667cb9c6c3b95b050ff078281</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIWindowElement</Name>
-            <Path>class_g_u_i_window_element.html</Path>
+            <Path>d7/d01/class_g_u_i_window_element.html</Path>
           <Subnodes>
              <Node>
               <Name>GUIWindowElement</Name>
-              <Path>class_g_u_i_window_element.html</Path>
+              <Path>d7/d01/class_g_u_i_window_element.html</Path>
               <Anchor>ab3f1488f3c458ac342809714666b5e92</Anchor>
              </Node>
              <Node>
               <Name>GUIWindowElement</Name>
-              <Path>class_g_u_i_window_element.html</Path>
+              <Path>d7/d01/class_g_u_i_window_element.html</Path>
               <Anchor>a150aa327037a15c8cf9733f36c80743c</Anchor>
              </Node>
              <Node>
               <Name>~GUIWindowElement</Name>
-              <Path>class_g_u_i_window_element.html</Path>
+              <Path>d7/d01/class_g_u_i_window_element.html</Path>
               <Anchor>a65a75a74904c27fc30875410233a02e9</Anchor>
              </Node>
              <Node>
               <Name>draw</Name>
-              <Path>class_g_u_i_window_element.html</Path>
+              <Path>d7/d01/class_g_u_i_window_element.html</Path>
               <Anchor>ad05dfe007625dcded413e2968b9f91b2</Anchor>
              </Node>
              <Node>
               <Name>basePositionX</Name>
-              <Path>class_g_u_i_window_element.html</Path>
+              <Path>d7/d01/class_g_u_i_window_element.html</Path>
               <Anchor>a9c9c9a29d430f834dee2a347fcd0c808</Anchor>
              </Node>
              <Node>
               <Name>basePositionY</Name>
-              <Path>class_g_u_i_window_element.html</Path>
+              <Path>d7/d01/class_g_u_i_window_element.html</Path>
               <Anchor>aa4ba798cea1a0a8e8c1df3b7927e7d24</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>MonsterCard</Name>
-            <Path>class_monster_card.html</Path>
+            <Path>d2/d04/class_monster_card.html</Path>
           <Subnodes>
              <Node>
               <Name>MonsterCard</Name>
-              <Path>class_monster_card.html</Path>
+              <Path>d2/d04/class_monster_card.html</Path>
               <Anchor>adc5e938cf4906eb6cfe3d17ff00e4b6c</Anchor>
              </Node>
              <Node>
               <Name>~MonsterCard</Name>
-              <Path>class_monster_card.html</Path>
+              <Path>d2/d04/class_monster_card.html</Path>
               <Anchor>a0a840f0029629ef493608b86d5063177</Anchor>
              </Node>
              <Node>
               <Name>changeMode</Name>
-              <Path>class_monster_card.html</Path>
+              <Path>d2/d04/class_monster_card.html</Path>
               <Anchor>a0307299fb1dbeb0909e67d7db3208cfe</Anchor>
              </Node>
              <Node>
               <Name>getActivePoints</Name>
-              <Path>class_monster_card.html</Path>
+              <Path>d2/d04/class_monster_card.html</Path>
               <Anchor>ac1982e6774175ac3e3ac77729c7afc94</Anchor>
              </Node>
              <Node>
               <Name>getAttackPoints</Name>
-              <Path>class_monster_card.html</Path>
+              <Path>d2/d04/class_monster_card.html</Path>
               <Anchor>a43700db6446571e93e5891b97a25fa73</Anchor>
              </Node>
              <Node>
               <Name>getCardDetails</Name>
-              <Path>class_monster_card.html</Path>
+              <Path>d2/d04/class_monster_card.html</Path>
               <Anchor>a26519397f41a7fc8ff3163c24f1688f6</Anchor>
              </Node>
              <Node>
               <Name>getDefensePoints</Name>
-              <Path>class_monster_card.html</Path>
+              <Path>d2/d04/class_monster_card.html</Path>
               <Anchor>a899965b26dee9cd577e5f151fa530f1e</Anchor>
              </Node>
              <Node>
               <Name>getLevel</Name>
-              <Path>class_monster_card.html</Path>
+              <Path>d2/d04/class_monster_card.html</Path>
               <Anchor>a1967af3dbce620d1c625123243c3c1b0</Anchor>
              </Node>
              <Node>
               <Name>getType</Name>
-              <Path>class_monster_card.html</Path>
+              <Path>d2/d04/class_monster_card.html</Path>
               <Anchor>aab6910a4ad731e4bd21c26931c010eb2</Anchor>
              </Node>
              <Node>
               <Name>isAttackMode</Name>
-              <Path>class_monster_card.html</Path>
+              <Path>d2/d04/class_monster_card.html</Path>
               <Anchor>a9ef0298ccbea7919685fb4f54ead2ed8</Anchor>
              </Node>
              <Node>
               <Name>setActivePoints</Name>
-              <Path>class_monster_card.html</Path>
+              <Path>d2/d04/class_monster_card.html</Path>
               <Anchor>ae87b9647a741ef20dc4f4f0df55a9b32</Anchor>
              </Node>
              <Node>
               <Name>setAttackPoints</Name>
-              <Path>class_monster_card.html</Path>
+              <Path>d2/d04/class_monster_card.html</Path>
               <Anchor>a21fdad1c1d8020674705f31245d22ca4</Anchor>
              </Node>
              <Node>
               <Name>setDefensePoints</Name>
-              <Path>class_monster_card.html</Path>
+              <Path>d2/d04/class_monster_card.html</Path>
               <Anchor>aee3d963145da4b6dba9c6f1ca4c1649f</Anchor>
              </Node>
              <Node>
               <Name>setMode</Name>
-              <Path>class_monster_card.html</Path>
+              <Path>d2/d04/class_monster_card.html</Path>
               <Anchor>afcc3ddc3ca0df31754edb3d2a6dcf229</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>Player</Name>
-            <Path>class_player.html</Path>
+            <Path>d8/d53/class_player.html</Path>
           <Subnodes>
              <Node>
               <Name>Player</Name>
-              <Path>class_player.html</Path>
+              <Path>d8/d53/class_player.html</Path>
               <Anchor>a0894a5c436a3faf6072bab1cc2edc0dd</Anchor>
              </Node>
              <Node>
               <Name>~Player</Name>
-              <Path>class_player.html</Path>
+              <Path>d8/d53/class_player.html</Path>
               <Anchor>a749d2c00e1fe0f5c2746f7505a58c062</Anchor>
              </Node>
              <Node>
               <Name>addCardToHand</Name>
-              <Path>class_player.html</Path>
+              <Path>d8/d53/class_player.html</Path>
               <Anchor>abf20ff01926f7f5222f5ad71dd0d6046</Anchor>
              </Node>
              <Node>
               <Name>addCardToHandFromDeck</Name>
-              <Path>class_player.html</Path>
+              <Path>d8/d53/class_player.html</Path>
               <Anchor>a1d983ff572237bfb5feb69849d043981</Anchor>
              </Node>
              <Node>
               <Name>decreaseLifePoints</Name>
-              <Path>class_player.html</Path>
+              <Path>d8/d53/class_player.html</Path>
               <Anchor>ab559089c389be6367a6a2cfd60e31de3</Anchor>
              </Node>
              <Node>
               <Name>discard</Name>
-              <Path>class_player.html</Path>
+              <Path>d8/d53/class_player.html</Path>
               <Anchor>af27d5adfd94e9b1c6ddca08c02d9f05b</Anchor>
              </Node>
              <Node>
               <Name>getDeck</Name>
-              <Path>class_player.html</Path>
+              <Path>d8/d53/class_player.html</Path>
               <Anchor>a8dcedf2150bc35ce8df9fed2c5cf9866</Anchor>
              </Node>
              <Node>
               <Name>getHand</Name>
-              <Path>class_player.html</Path>
+              <Path>d8/d53/class_player.html</Path>
               <Anchor>a347dcbd7b44526ea75aeddf6abea74eb</Anchor>
              </Node>
              <Node>
               <Name>getLifePoints</Name>
-              <Path>class_player.html</Path>
+              <Path>d8/d53/class_player.html</Path>
               <Anchor>ace8880854cbc798c48137ace2fdf1589</Anchor>
              </Node>
              <Node>
               <Name>getName</Name>
-              <Path>class_player.html</Path>
+              <Path>d8/d53/class_player.html</Path>
               <Anchor>a73e4ff2d70e62ca7e3be1d9b4ad9de85</Anchor>
              </Node>
              <Node>
               <Name>getPlayingField</Name>
-              <Path>class_player.html</Path>
+              <Path>d8/d53/class_player.html</Path>
               <Anchor>a1efdc907f3117c67214233b57bb8c3a4</Anchor>
              </Node>
              <Node>
               <Name>increaseLifePoints</Name>
-              <Path>class_player.html</Path>
+              <Path>d8/d53/class_player.html</Path>
               <Anchor>a653751edf8a1d23328539bb336c029c2</Anchor>
              </Node>
              <Node>
               <Name>initializeDeck</Name>
-              <Path>class_player.html</Path>
+              <Path>d8/d53/class_player.html</Path>
               <Anchor>a3480838c651e399e48b8849fba0bd802</Anchor>
              </Node>
              <Node>
               <Name>removeCardFromHand</Name>
-              <Path>class_player.html</Path>
+              <Path>d8/d53/class_player.html</Path>
               <Anchor>ac2a9076ea34b1edc266c35e2c919b14e</Anchor>
              </Node>
              <Node>
               <Name>setLifePoints</Name>
-              <Path>class_player.html</Path>
+              <Path>d8/d53/class_player.html</Path>
               <Anchor>a12d828ea9daf30d40923705978b5271a</Anchor>
              </Node>
              <Node>
               <Name>tribute</Name>
-              <Path>class_player.html</Path>
+              <Path>d8/d53/class_player.html</Path>
               <Anchor>aa596828563f0e6406b78f69b4e94e2c7</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>PlayingField</Name>
-            <Path>class_playing_field.html</Path>
+            <Path>dc/db5/class_playing_field.html</Path>
           <Subnodes>
              <Node>
               <Name>PlayingField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>a069f2d4f0d3798a28806bd7a192fc8e5</Anchor>
              </Node>
              <Node>
               <Name>~PlayingField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>a7bc092c6433f18e7a07835608e8a4449</Anchor>
              </Node>
              <Node>
               <Name>addCardToGraveyard</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>ae90103f6b138dafc00e2cf2c45c50267</Anchor>
              </Node>
              <Node>
               <Name>addCardToGraveyard</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>a05b60bb0849baed4903bf44e04c5074d</Anchor>
              </Node>
              <Node>
               <Name>addCardToGraveyard</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>ab3db2da775a9b6df071e6c6dfaf424d8</Anchor>
              </Node>
              <Node>
               <Name>addCardToGraveyard</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>ad19423a18d27562c8b19cc58f7373126</Anchor>
              </Node>
              <Node>
               <Name>addCardToPlayingField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>affe81d1993bf8e61c5e60646445b8374</Anchor>
              </Node>
              <Node>
               <Name>addCardToPlayingField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>a17a805d491a6e58b25aa0f937906dabe</Anchor>
              </Node>
              <Node>
               <Name>addCardToPlayingField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>ab534ca22159846e4746a65ef9a9ff7cb</Anchor>
              </Node>
              <Node>
               <Name>addCardToPlayingField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>ab2eea15a2e22e753d438a86bcb5f5d72</Anchor>
              </Node>
              <Node>
               <Name>getCountOfActiveMonsters</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>a62a1288f08e8c29a3166bf2411574ab7</Anchor>
              </Node>
              <Node>
               <Name>getGraveyard</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>a604323585e7495451f442127f21d3eb0</Anchor>
              </Node>
              <Node>
               <Name>getMonsterCardsInGraveyard</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>a8619da1d18c4f90247bcb8e6b183ce5c</Anchor>
              </Node>
              <Node>
               <Name>getMonsterField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>a9267d9cc1932bf9284f682e77571ff74</Anchor>
              </Node>
              <Node>
               <Name>getSpellTrapField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>a3707b232bab95f4ffbbbe2e1846ba9a7</Anchor>
              </Node>
              <Node>
               <Name>getStrongestMonsterInField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>ae7962c0a40c1cff5854939532ec63a7f</Anchor>
              </Node>
              <Node>
               <Name>getStrongestMonsterInGY</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>a9027748efdafd9fc81ab069375ef23ed</Anchor>
              </Node>
              <Node>
               <Name>getWeakestMonsterInField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>ae9e1eaae03ebd1be2cff7dee43109263</Anchor>
              </Node>
              <Node>
               <Name>getWeakestMonsterInGY</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>a6c4fe47b4f15a963c89a1fcc4ac8c26d</Anchor>
              </Node>
              <Node>
               <Name>isThereAttackingMonsterInField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>a5ab7ead8ba837a3945b0e60c1be6a134</Anchor>
              </Node>
              <Node>
               <Name>isThereMonsterInField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>adfa66082ec2d50876fb26aad45463208</Anchor>
              </Node>
              <Node>
               <Name>isThereTrapCardInField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>a367a80450516c551cc78ffe5b2be7384</Anchor>
              </Node>
              <Node>
               <Name>removeCardFromMonsterField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>af0413bc519e7b7da4d98d771c6248d29</Anchor>
              </Node>
              <Node>
               <Name>removeCardFromSpellTrapField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>a374a4cd647e5d1bfcc08deceec96f621</Anchor>
              </Node>
              <Node>
               <Name>removeCardFromSpellTrapField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>abfa7ceea7ff55fd7f7331496b8e52b33</Anchor>
              </Node>
              <Node>
               <Name>removeCardFromSpellTrapField</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>a16c6a170ab2693d6d28f696176c2ed7d</Anchor>
              </Node>
              <Node>
               <Name>removeMonsterCardFromGraveyard</Name>
-              <Path>class_playing_field.html</Path>
+              <Path>dc/db5/class_playing_field.html</Path>
               <Anchor>aeff1c5ff1573c3c4ecfb3c7e422dabbd</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>SetoKaiba</Name>
-            <Path>class_seto_kaiba.html</Path>
+            <Path>d5/d51/class_seto_kaiba.html</Path>
           <Subnodes>
              <Node>
               <Name>SetoKaiba</Name>
-              <Path>class_seto_kaiba.html</Path>
+              <Path>d5/d51/class_seto_kaiba.html</Path>
               <Anchor>ad521b29d2e84d20b98fc16244662bb75</Anchor>
              </Node>
              <Node>
               <Name>~SetoKaiba</Name>
-              <Path>class_seto_kaiba.html</Path>
+              <Path>d5/d51/class_seto_kaiba.html</Path>
               <Anchor>a150820aa376d07477f05676ab1eb9dcd</Anchor>
              </Node>
              <Node>
               <Name>hasThreeBlueEyesWhiteDragon</Name>
-              <Path>class_seto_kaiba.html</Path>
+              <Path>d5/d51/class_seto_kaiba.html</Path>
               <Anchor>a9d893ea14625498dc4387d9585708180</Anchor>
              </Node>
              <Node>
               <Name>summonBlueEyesUltimateDragon</Name>
-              <Path>class_seto_kaiba.html</Path>
+              <Path>d5/d51/class_seto_kaiba.html</Path>
               <Anchor>a880a7ce0a04590bceeb6d02535a52d30</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>SpellCard</Name>
-            <Path>class_spell_card.html</Path>
+            <Path>db/d45/class_spell_card.html</Path>
           <Subnodes>
              <Node>
               <Name>SpellCard</Name>
-              <Path>class_spell_card.html</Path>
+              <Path>db/d45/class_spell_card.html</Path>
               <Anchor>a86d26121a2ae922e01751ee18c3d2b2e</Anchor>
              </Node>
              <Node>
               <Name>~SpellCard</Name>
-              <Path>class_spell_card.html</Path>
+              <Path>db/d45/class_spell_card.html</Path>
               <Anchor>a4506689e96426da90b365699ac09bdc8</Anchor>
              </Node>
              <Node>
               <Name>activateEffect</Name>
-              <Path>class_spell_card.html</Path>
+              <Path>db/d45/class_spell_card.html</Path>
               <Anchor>a7697ae440bb553fe95757adf50b517fd</Anchor>
              </Node>
              <Node>
               <Name>getCardDetails</Name>
-              <Path>class_spell_card.html</Path>
+              <Path>db/d45/class_spell_card.html</Path>
               <Anchor>ac9c02441c8baa6d062d780d8dc4a4922</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>TrapCard</Name>
-            <Path>class_trap_card.html</Path>
+            <Path>d4/dd1/class_trap_card.html</Path>
           <Subnodes>
              <Node>
               <Name>TrapCard</Name>
-              <Path>class_trap_card.html</Path>
+              <Path>d4/dd1/class_trap_card.html</Path>
               <Anchor>a02bfbcb3885ada7217f1176e2d698e36</Anchor>
              </Node>
              <Node>
               <Name>~TrapCard</Name>
-              <Path>class_trap_card.html</Path>
+              <Path>d4/dd1/class_trap_card.html</Path>
               <Anchor>a536bf640fc9eb2314690c270ceb11bc4</Anchor>
              </Node>
              <Node>
               <Name>activateEffect</Name>
-              <Path>class_trap_card.html</Path>
+              <Path>d4/dd1/class_trap_card.html</Path>
               <Anchor>ad2c6901e2e45c041e998615a35d9ec74</Anchor>
              </Node>
              <Node>
               <Name>blocksAttack</Name>
-              <Path>class_trap_card.html</Path>
+              <Path>d4/dd1/class_trap_card.html</Path>
               <Anchor>abc34e160850fc160a4533e2df3e77500</Anchor>
              </Node>
              <Node>
               <Name>getCardDetails</Name>
-              <Path>class_trap_card.html</Path>
+              <Path>d4/dd1/class_trap_card.html</Path>
               <Anchor>ac1b9a57b1baa97a75b3317f6ec82aa3e</Anchor>
              </Node>
              <Node>
               <Name>isFacedUp</Name>
-              <Path>class_trap_card.html</Path>
+              <Path>d4/dd1/class_trap_card.html</Path>
               <Anchor>ab610dd445d65850c419f80c45763275c</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>YugiMuto</Name>
-            <Path>class_yugi_muto.html</Path>
+            <Path>d0/d68/class_yugi_muto.html</Path>
           <Subnodes>
              <Node>
               <Name>YugiMuto</Name>
-              <Path>class_yugi_muto.html</Path>
+              <Path>d0/d68/class_yugi_muto.html</Path>
               <Anchor>a9679455ae8475b1ba338e909b840e21a</Anchor>
              </Node>
              <Node>
               <Name>~YugiMuto</Name>
-              <Path>class_yugi_muto.html</Path>
+              <Path>d0/d68/class_yugi_muto.html</Path>
               <Anchor>a10f50d8c8dfd0d5d8f0108397c71f64f</Anchor>
              </Node>
              <Node>
               <Name>hasAllPiecesOfExodia</Name>
-              <Path>class_yugi_muto.html</Path>
+              <Path>d0/d68/class_yugi_muto.html</Path>
               <Anchor>a5e39bb4635ae526fa3ee8546f5a12e33</Anchor>
              </Node>
             </Subnodes>
@@ -1149,107 +1153,107 @@
         <Subnodes>
            <Node>
             <Name>Card</Name>
-            <Path>class_card.html</Path>
+            <Path>d5/d6a/class_card.html</Path>
           <Subnodes>
              <Node>
               <Name>MonsterCard</Name>
-              <Path>class_monster_card.html</Path>
+              <Path>d2/d04/class_monster_card.html</Path>
              </Node>
              <Node>
               <Name>SpellCard</Name>
-              <Path>class_spell_card.html</Path>
+              <Path>db/d45/class_spell_card.html</Path>
              </Node>
              <Node>
               <Name>TrapCard</Name>
-              <Path>class_trap_card.html</Path>
+              <Path>d4/dd1/class_trap_card.html</Path>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>Deck</Name>
-            <Path>class_deck.html</Path>
+            <Path>d6/deb/class_deck.html</Path>
            </Node>
            <Node>
             <Name>GameManager</Name>
-            <Path>class_game_manager.html</Path>
+            <Path>db/d10/class_game_manager.html</Path>
            </Node>
            <Node>
             <Name>GUIGameState</Name>
-            <Path>class_g_u_i_game_state.html</Path>
+            <Path>d1/d51/class_g_u_i_game_state.html</Path>
            </Node>
            <Node>
             <Name>GUIWindow</Name>
-            <Path>class_g_u_i_window.html</Path>
+            <Path>d4/d38/class_g_u_i_window.html</Path>
           <Subnodes>
              <Node>
               <Name>GUIGameWindow</Name>
-              <Path>class_g_u_i_game_window.html</Path>
+              <Path>df/db5/class_g_u_i_game_window.html</Path>
              </Node>
              <Node>
               <Name>GUIMainMenuWindow</Name>
-              <Path>class_g_u_i_main_menu_window.html</Path>
+              <Path>d1/dea/class_g_u_i_main_menu_window.html</Path>
              </Node>
              <Node>
               <Name>GUIPauseMenu</Name>
-              <Path>class_g_u_i_pause_menu.html</Path>
+              <Path>d7/ded/class_g_u_i_pause_menu.html</Path>
              </Node>
              <Node>
               <Name>GUISettings</Name>
-              <Path>class_g_u_i_settings.html</Path>
+              <Path>df/d39/class_g_u_i_settings.html</Path>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIWindowElement</Name>
-            <Path>class_g_u_i_window_element.html</Path>
+            <Path>d7/d01/class_g_u_i_window_element.html</Path>
           <Subnodes>
              <Node>
               <Name>GUICardInfoPanel</Name>
-              <Path>class_g_u_i_card_info_panel.html</Path>
+              <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
              </Node>
              <Node>
               <Name>GUIGraveyard</Name>
-              <Path>class_g_u_i_graveyard.html</Path>
+              <Path>df/d85/class_g_u_i_graveyard.html</Path>
              </Node>
              <Node>
               <Name>GUIHand</Name>
-              <Path>class_g_u_i_hand.html</Path>
+              <Path>d5/d76/class_g_u_i_hand.html</Path>
              </Node>
              <Node>
               <Name>GUILifeBar</Name>
-              <Path>class_g_u_i_life_bar.html</Path>
+              <Path>de/d92/class_g_u_i_life_bar.html</Path>
              </Node>
              <Node>
               <Name>GUIPhaseText</Name>
-              <Path>class_g_u_i_phase_text.html</Path>
+              <Path>d5/dbc/class_g_u_i_phase_text.html</Path>
              </Node>
              <Node>
               <Name>GUIPlayerPanel</Name>
-              <Path>class_g_u_i_player_panel.html</Path>
+              <Path>d4/d7c/class_g_u_i_player_panel.html</Path>
              </Node>
              <Node>
               <Name>GUIPlayingField</Name>
-              <Path>class_g_u_i_playing_field.html</Path>
+              <Path>d8/da0/class_g_u_i_playing_field.html</Path>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>Player</Name>
-            <Path>class_player.html</Path>
+            <Path>d8/d53/class_player.html</Path>
           <Subnodes>
              <Node>
               <Name>SetoKaiba</Name>
-              <Path>class_seto_kaiba.html</Path>
+              <Path>d5/d51/class_seto_kaiba.html</Path>
              </Node>
              <Node>
               <Name>YugiMuto</Name>
-              <Path>class_yugi_muto.html</Path>
+              <Path>d0/d68/class_yugi_muto.html</Path>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>PlayingField</Name>
-            <Path>class_playing_field.html</Path>
+            <Path>dc/db5/class_playing_field.html</Path>
            </Node>
           </Subnodes>
          </Node>
@@ -1299,81 +1303,81 @@
                 <Subnodes>
                    <Node>
                     <Name>CMakeCCompilerId.c</Name>
-                    <Path>_c_make_c_compiler_id_8c.html</Path>
+                    <Path>d1/d3a/_c_make_c_compiler_id_8c.html</Path>
                   <Subnodes>
                      <Node>
                       <Name>__has_include</Name>
-                      <Path>_c_make_c_compiler_id_8c.html</Path>
+                      <Path>d1/d3a/_c_make_c_compiler_id_8c.html</Path>
                       <Anchor>ae5510d82e4946f1656f4969911c54736</Anchor>
                      </Node>
                      <Node>
                       <Name>ARCHITECTURE_ID</Name>
-                      <Path>_c_make_c_compiler_id_8c.html</Path>
+                      <Path>d1/d3a/_c_make_c_compiler_id_8c.html</Path>
                       <Anchor>aba35d0d200deaeb06aee95ca297acb28</Anchor>
                      </Node>
                      <Node>
                       <Name>C_VERSION</Name>
-                      <Path>_c_make_c_compiler_id_8c.html</Path>
+                      <Path>d1/d3a/_c_make_c_compiler_id_8c.html</Path>
                       <Anchor>adaee3ee7c5a7a22451ea25e762e1d7d5</Anchor>
                      </Node>
                      <Node>
                       <Name>COMPILER_ID</Name>
-                      <Path>_c_make_c_compiler_id_8c.html</Path>
+                      <Path>d1/d3a/_c_make_c_compiler_id_8c.html</Path>
                       <Anchor>a81dee0709ded976b2e0319239f72d174</Anchor>
                      </Node>
                      <Node>
                       <Name>DEC</Name>
-                      <Path>_c_make_c_compiler_id_8c.html</Path>
+                      <Path>d1/d3a/_c_make_c_compiler_id_8c.html</Path>
                       <Anchor>ad1280362da42492bbc11aa78cbf776ad</Anchor>
                      </Node>
                      <Node>
                       <Name>HEX</Name>
-                      <Path>_c_make_c_compiler_id_8c.html</Path>
+                      <Path>d1/d3a/_c_make_c_compiler_id_8c.html</Path>
                       <Anchor>a46d5d95daa1bef867bd0179594310ed5</Anchor>
                      </Node>
                      <Node>
                       <Name>PLATFORM_ID</Name>
-                      <Path>_c_make_c_compiler_id_8c.html</Path>
+                      <Path>d1/d3a/_c_make_c_compiler_id_8c.html</Path>
                       <Anchor>adbc5372f40838899018fadbc89bd588b</Anchor>
                      </Node>
                      <Node>
                       <Name>STRINGIFY</Name>
-                      <Path>_c_make_c_compiler_id_8c.html</Path>
+                      <Path>d1/d3a/_c_make_c_compiler_id_8c.html</Path>
                       <Anchor>a43e1cad902b6477bec893cb6430bd6c8</Anchor>
                      </Node>
                      <Node>
                       <Name>STRINGIFY_HELPER</Name>
-                      <Path>_c_make_c_compiler_id_8c.html</Path>
+                      <Path>d1/d3a/_c_make_c_compiler_id_8c.html</Path>
                       <Anchor>a2ae9b72bb13abaabfcf2ee0ba7d3fa1d</Anchor>
                      </Node>
                      <Node>
                       <Name>main</Name>
-                      <Path>_c_make_c_compiler_id_8c.html</Path>
+                      <Path>d1/d3a/_c_make_c_compiler_id_8c.html</Path>
                       <Anchor>a0ddf1224851353fc92bfbff6f499fa97</Anchor>
                      </Node>
                      <Node>
                       <Name>info_arch</Name>
-                      <Path>_c_make_c_compiler_id_8c.html</Path>
+                      <Path>d1/d3a/_c_make_c_compiler_id_8c.html</Path>
                       <Anchor>a59647e99d304ed33b15cb284c27ed391</Anchor>
                      </Node>
                      <Node>
                       <Name>info_compiler</Name>
-                      <Path>_c_make_c_compiler_id_8c.html</Path>
+                      <Path>d1/d3a/_c_make_c_compiler_id_8c.html</Path>
                       <Anchor>a4b0efeb7a5d59313986b3a0390f050f6</Anchor>
                      </Node>
                      <Node>
                       <Name>info_language_extensions_default</Name>
-                      <Path>_c_make_c_compiler_id_8c.html</Path>
+                      <Path>d1/d3a/_c_make_c_compiler_id_8c.html</Path>
                       <Anchor>a0f46a8a39e09d9b803c4766904fd7e99</Anchor>
                      </Node>
                      <Node>
                       <Name>info_language_standard_default</Name>
-                      <Path>_c_make_c_compiler_id_8c.html</Path>
+                      <Path>d1/d3a/_c_make_c_compiler_id_8c.html</Path>
                       <Anchor>a4607cccf070750927b458473ca82c090</Anchor>
                      </Node>
                      <Node>
                       <Name>info_platform</Name>
-                      <Path>_c_make_c_compiler_id_8c.html</Path>
+                      <Path>d1/d3a/_c_make_c_compiler_id_8c.html</Path>
                       <Anchor>a2321403dee54ee23f0c2fa849c60f7d4</Anchor>
                      </Node>
                     </Subnodes>
@@ -1386,81 +1390,81 @@
                 <Subnodes>
                    <Node>
                     <Name>CMakeCXXCompilerId.cpp</Name>
-                    <Path>_c_make_c_x_x_compiler_id_8cpp.html</Path>
+                    <Path>d3/d66/_c_make_c_x_x_compiler_id_8cpp.html</Path>
                   <Subnodes>
                      <Node>
                       <Name>__has_include</Name>
-                      <Path>_c_make_c_x_x_compiler_id_8cpp.html</Path>
+                      <Path>d3/d66/_c_make_c_x_x_compiler_id_8cpp.html</Path>
                       <Anchor>ae5510d82e4946f1656f4969911c54736</Anchor>
                      </Node>
                      <Node>
                       <Name>ARCHITECTURE_ID</Name>
-                      <Path>_c_make_c_x_x_compiler_id_8cpp.html</Path>
+                      <Path>d3/d66/_c_make_c_x_x_compiler_id_8cpp.html</Path>
                       <Anchor>aba35d0d200deaeb06aee95ca297acb28</Anchor>
                      </Node>
                      <Node>
                       <Name>COMPILER_ID</Name>
-                      <Path>_c_make_c_x_x_compiler_id_8cpp.html</Path>
+                      <Path>d3/d66/_c_make_c_x_x_compiler_id_8cpp.html</Path>
                       <Anchor>a81dee0709ded976b2e0319239f72d174</Anchor>
                      </Node>
                      <Node>
                       <Name>CXX_STD</Name>
-                      <Path>_c_make_c_x_x_compiler_id_8cpp.html</Path>
+                      <Path>d3/d66/_c_make_c_x_x_compiler_id_8cpp.html</Path>
                       <Anchor>a34cc889e576a1ae6c84ae9e0a851ba21</Anchor>
                      </Node>
                      <Node>
                       <Name>DEC</Name>
-                      <Path>_c_make_c_x_x_compiler_id_8cpp.html</Path>
+                      <Path>d3/d66/_c_make_c_x_x_compiler_id_8cpp.html</Path>
                       <Anchor>ad1280362da42492bbc11aa78cbf776ad</Anchor>
                      </Node>
                      <Node>
                       <Name>HEX</Name>
-                      <Path>_c_make_c_x_x_compiler_id_8cpp.html</Path>
+                      <Path>d3/d66/_c_make_c_x_x_compiler_id_8cpp.html</Path>
                       <Anchor>a46d5d95daa1bef867bd0179594310ed5</Anchor>
                      </Node>
                      <Node>
                       <Name>PLATFORM_ID</Name>
-                      <Path>_c_make_c_x_x_compiler_id_8cpp.html</Path>
+                      <Path>d3/d66/_c_make_c_x_x_compiler_id_8cpp.html</Path>
                       <Anchor>adbc5372f40838899018fadbc89bd588b</Anchor>
                      </Node>
                      <Node>
                       <Name>STRINGIFY</Name>
-                      <Path>_c_make_c_x_x_compiler_id_8cpp.html</Path>
+                      <Path>d3/d66/_c_make_c_x_x_compiler_id_8cpp.html</Path>
                       <Anchor>a43e1cad902b6477bec893cb6430bd6c8</Anchor>
                      </Node>
                      <Node>
                       <Name>STRINGIFY_HELPER</Name>
-                      <Path>_c_make_c_x_x_compiler_id_8cpp.html</Path>
+                      <Path>d3/d66/_c_make_c_x_x_compiler_id_8cpp.html</Path>
                       <Anchor>a2ae9b72bb13abaabfcf2ee0ba7d3fa1d</Anchor>
                      </Node>
                      <Node>
                       <Name>main</Name>
-                      <Path>_c_make_c_x_x_compiler_id_8cpp.html</Path>
+                      <Path>d3/d66/_c_make_c_x_x_compiler_id_8cpp.html</Path>
                       <Anchor>a0ddf1224851353fc92bfbff6f499fa97</Anchor>
                      </Node>
                      <Node>
                       <Name>info_arch</Name>
-                      <Path>_c_make_c_x_x_compiler_id_8cpp.html</Path>
+                      <Path>d3/d66/_c_make_c_x_x_compiler_id_8cpp.html</Path>
                       <Anchor>a59647e99d304ed33b15cb284c27ed391</Anchor>
                      </Node>
                      <Node>
                       <Name>info_compiler</Name>
-                      <Path>_c_make_c_x_x_compiler_id_8cpp.html</Path>
+                      <Path>d3/d66/_c_make_c_x_x_compiler_id_8cpp.html</Path>
                       <Anchor>a4b0efeb7a5d59313986b3a0390f050f6</Anchor>
                      </Node>
                      <Node>
                       <Name>info_language_extensions_default</Name>
-                      <Path>_c_make_c_x_x_compiler_id_8cpp.html</Path>
+                      <Path>d3/d66/_c_make_c_x_x_compiler_id_8cpp.html</Path>
                       <Anchor>a0f46a8a39e09d9b803c4766904fd7e99</Anchor>
                      </Node>
                      <Node>
                       <Name>info_language_standard_default</Name>
-                      <Path>_c_make_c_x_x_compiler_id_8cpp.html</Path>
+                      <Path>d3/d66/_c_make_c_x_x_compiler_id_8cpp.html</Path>
                       <Anchor>a4607cccf070750927b458473ca82c090</Anchor>
                      </Node>
                      <Node>
                       <Name>info_platform</Name>
-                      <Path>_c_make_c_x_x_compiler_id_8cpp.html</Path>
+                      <Path>d3/d66/_c_make_c_x_x_compiler_id_8cpp.html</Path>
                       <Anchor>a2321403dee54ee23f0c2fa849c60f7d4</Anchor>
                      </Node>
                     </Subnodes>
@@ -1479,60 +1483,60 @@
           <Subnodes>
              <Node>
               <Name>Card.h</Name>
-              <Path>_card_8h.html</Path>
+              <Path>da/d2a/_card_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>Card</Name>
-                <Path>class_card.html</Path>
+                <Path>d5/d6a/class_card.html</Path>
               <Subnodes>
                  <Node>
                   <Name>Card</Name>
-                  <Path>class_card.html</Path>
+                  <Path>d5/d6a/class_card.html</Path>
                   <Anchor>aeaa66841468961758db65393450bc44b</Anchor>
                  </Node>
                  <Node>
                   <Name>~Card</Name>
-                  <Path>class_card.html</Path>
+                  <Path>d5/d6a/class_card.html</Path>
                   <Anchor>a4e05b0b68e43e5e76c6194458cee874f</Anchor>
                  </Node>
                  <Node>
                   <Name>flip</Name>
-                  <Path>class_card.html</Path>
+                  <Path>d5/d6a/class_card.html</Path>
                   <Anchor>ac9e1cecfe41118bdd2f019831549dd2a</Anchor>
                  </Node>
                  <Node>
                   <Name>getCardDetails</Name>
-                  <Path>class_card.html</Path>
+                  <Path>d5/d6a/class_card.html</Path>
                   <Anchor>a4ab6feabe926a37fe987c06238633bf3</Anchor>
                  </Node>
                  <Node>
                   <Name>getCardTexture</Name>
-                  <Path>class_card.html</Path>
+                  <Path>d5/d6a/class_card.html</Path>
                   <Anchor>ac2ad8cc0b03628cf46b37c6e9369c4b7</Anchor>
                  </Node>
                  <Node>
                   <Name>getDescription</Name>
-                  <Path>class_card.html</Path>
+                  <Path>d5/d6a/class_card.html</Path>
                   <Anchor>ad8292653b62ffab05af810d3be240161</Anchor>
                  </Node>
                  <Node>
                   <Name>getName</Name>
-                  <Path>class_card.html</Path>
+                  <Path>d5/d6a/class_card.html</Path>
                   <Anchor>a906ec0559a62e3bed4ccd518cacbe34c</Anchor>
                  </Node>
                  <Node>
                   <Name>isFacedUp</Name>
-                  <Path>class_card.html</Path>
+                  <Path>d5/d6a/class_card.html</Path>
                   <Anchor>a36cc972608cd7ea51784dd7e2c22e5e5</Anchor>
                  </Node>
                  <Node>
                   <Name>setCardTexture</Name>
-                  <Path>class_card.html</Path>
+                  <Path>d5/d6a/class_card.html</Path>
                   <Anchor>aac0ab3f69c6099af64b31d301590f8f4</Anchor>
                  </Node>
                  <Node>
                   <Name>setIsFaceUp</Name>
-                  <Path>class_card.html</Path>
+                  <Path>d5/d6a/class_card.html</Path>
                   <Anchor>aff4d7000d02a0b138134e78423b15966</Anchor>
                  </Node>
                 </Subnodes>
@@ -1541,40 +1545,40 @@
              </Node>
              <Node>
               <Name>Deck.h</Name>
-              <Path>_deck_8h.html</Path>
+              <Path>da/d1b/_deck_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>Deck</Name>
-                <Path>class_deck.html</Path>
+                <Path>d6/deb/class_deck.html</Path>
               <Subnodes>
                  <Node>
                   <Name>Deck</Name>
-                  <Path>class_deck.html</Path>
+                  <Path>d6/deb/class_deck.html</Path>
                   <Anchor>a57ae1cb4ac6fd61c249cefb2db85eb99</Anchor>
                  </Node>
                  <Node>
                   <Name>~Deck</Name>
-                  <Path>class_deck.html</Path>
+                  <Path>d6/deb/class_deck.html</Path>
                   <Anchor>a7d1331cc558c302fdf44e5ae8aae1a95</Anchor>
                  </Node>
                  <Node>
                   <Name>addCard</Name>
-                  <Path>class_deck.html</Path>
+                  <Path>d6/deb/class_deck.html</Path>
                   <Anchor>a0251bfdd3bb8fd58ee40b67429567dd9</Anchor>
                  </Node>
                  <Node>
                   <Name>drawCard</Name>
-                  <Path>class_deck.html</Path>
+                  <Path>d6/deb/class_deck.html</Path>
                   <Anchor>a3479880ac4511d593c7cd72811c077cc</Anchor>
                  </Node>
                  <Node>
                   <Name>getCards</Name>
-                  <Path>class_deck.html</Path>
+                  <Path>d6/deb/class_deck.html</Path>
                   <Anchor>a04595e1e1bd2ae1d059c8173061e69b5</Anchor>
                  </Node>
                  <Node>
                   <Name>shuffle</Name>
-                  <Path>class_deck.html</Path>
+                  <Path>d6/deb/class_deck.html</Path>
                   <Anchor>ae5a1e52ab00ae5924f2bc6b730dba3eb</Anchor>
                  </Node>
                 </Subnodes>
@@ -1583,132 +1587,132 @@
              </Node>
              <Node>
               <Name>GameManager.h</Name>
-              <Path>_game_manager_8h.html</Path>
+              <Path>d0/d96/_game_manager_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>GameManager</Name>
-                <Path>class_game_manager.html</Path>
+                <Path>db/d10/class_game_manager.html</Path>
               <Subnodes>
                  <Node>
                   <Name>GameManager</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>aa0e2424dc1a39d380e5b6605b179bf05</Anchor>
                  </Node>
                  <Node>
                   <Name>~GameManager</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>aaae63e38e358379c1fe507c5197a8435</Anchor>
                  </Node>
                  <Node>
                   <Name>activateTrapCard</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>a28eb1135f5c0d1b5b32cd26cce713c86</Anchor>
                  </Node>
                  <Node>
                   <Name>attackLifePoints</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>affdff9eaf0e78bbad6a1856991bc8cf5</Anchor>
                  </Node>
                  <Node>
                   <Name>battlePhase</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>afa8c0fa0889d071fc2d7ae6b1cbffc5b</Anchor>
                  </Node>
                  <Node>
                   <Name>changeCardMode</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>aa4c5786cf2008c39b461c4fb5810f684</Anchor>
                  </Node>
                  <Node>
                   <Name>declareAttack</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>a2670bc6d6fd0fae989f806db8f0448ef</Anchor>
                  </Node>
                  <Node>
                   <Name>determineWinner</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>a1583887886dff027be65fa303e6c1137</Anchor>
                  </Node>
                  <Node>
                   <Name>drawPhase</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>af58188188f3f333919d59e43937810f0</Anchor>
                  </Node>
                  <Node>
                   <Name>endPhase</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>aad94126a86d0c5bbde4e02bec42f6dcc</Anchor>
                  </Node>
                  <Node>
                   <Name>getCurrentPlayer</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>a6e5d8feef45005df46b1f7bb819fd4ed</Anchor>
                  </Node>
                  <Node>
                   <Name>getGameState</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>a00f08ab3f25f9e989d101903d60e6099</Anchor>
                  </Node>
                  <Node>
                   <Name>getIsCurrentPlayerChangedCardModeAtMP</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>aa3a2553b7762ccfa378f3ad5d152628e</Anchor>
                  </Node>
                  <Node>
                   <Name>getIsCurrentPlayerPlayedCardAtMP</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>aa9654efeee4f3400da9ab13edf5ae2fb</Anchor>
                  </Node>
                  <Node>
                   <Name>getOpposingPlayer</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>a228f12f7cddb42e6fe963ba1f2101dab</Anchor>
                  </Node>
                  <Node>
                   <Name>initializeGame</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>a280a096273dde3fa35bd20409c78ba58</Anchor>
                  </Node>
                  <Node>
                   <Name>mainPhase</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>a6363096051125d31fa9be76a244c0f0a</Anchor>
                  </Node>
                  <Node>
                   <Name>restartTheGame</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>a577d4add278792444c455af2ab4e5d8e</Anchor>
                  </Node>
                  <Node>
                   <Name>swapPlayers</Name>
-                  <Path>class_game_manager.html</Path>
+                  <Path>db/d10/class_game_manager.html</Path>
                   <Anchor>a862d3b5ef7a9216d7d5f68a49f15c12b</Anchor>
                  </Node>
                 </Subnodes>
                </Node>
                <Node>
                 <Name>GameState</Name>
-                <Path>_game_manager_8h.html</Path>
+                <Path>d0/d96/_game_manager_8h.html</Path>
                 <Anchor>a7899b65f1ea0f655e4bbf8d2a5714285</Anchor>
               <Subnodes>
                  <Node>
                   <Name>DRAW_PHASE</Name>
-                  <Path>_game_manager_8h.html</Path>
+                  <Path>d0/d96/_game_manager_8h.html</Path>
                   <Anchor>a7899b65f1ea0f655e4bbf8d2a5714285acbb6d373d44b7f5abc660967463e552b</Anchor>
                  </Node>
                  <Node>
                   <Name>MAIN_PHASE</Name>
-                  <Path>_game_manager_8h.html</Path>
+                  <Path>d0/d96/_game_manager_8h.html</Path>
                   <Anchor>a7899b65f1ea0f655e4bbf8d2a5714285a0d9c59e4e2d99e686ac15f9ccbc38ebf</Anchor>
                  </Node>
                  <Node>
                   <Name>BATTLE_PHASE</Name>
-                  <Path>_game_manager_8h.html</Path>
+                  <Path>d0/d96/_game_manager_8h.html</Path>
                   <Anchor>a7899b65f1ea0f655e4bbf8d2a5714285a2fd11889cbe1412c6f5be0046cec87ac</Anchor>
                  </Node>
                  <Node>
                   <Name>END_PHASE</Name>
-                  <Path>_game_manager_8h.html</Path>
+                  <Path>d0/d96/_game_manager_8h.html</Path>
                   <Anchor>a7899b65f1ea0f655e4bbf8d2a5714285a7c90a04383af818cc1304bb4d085ecee</Anchor>
                  </Node>
                 </Subnodes>
@@ -1717,45 +1721,45 @@
              </Node>
              <Node>
               <Name>GUICardInfoPanel.h</Name>
-              <Path>_g_u_i_card_info_panel_8h.html</Path>
+              <Path>de/da1/_g_u_i_card_info_panel_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>GUICardInfoPanel</Name>
-                <Path>class_g_u_i_card_info_panel.html</Path>
+                <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
               <Subnodes>
                  <Node>
                   <Name>GUICardInfoPanel</Name>
-                  <Path>class_g_u_i_card_info_panel.html</Path>
+                  <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
                   <Anchor>a5235d9e328e7422af4d090927ba79532</Anchor>
                  </Node>
                  <Node>
                   <Name>GUICardInfoPanel</Name>
-                  <Path>class_g_u_i_card_info_panel.html</Path>
+                  <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
                   <Anchor>a85bc8469f9d79fd0f22aaf864d97b765</Anchor>
                  </Node>
                  <Node>
                   <Name>~GUICardInfoPanel</Name>
-                  <Path>class_g_u_i_card_info_panel.html</Path>
+                  <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
                   <Anchor>a1d17bd2fac5e1a66981c7113b2fb7204</Anchor>
                  </Node>
                  <Node>
                   <Name>createText</Name>
-                  <Path>class_g_u_i_card_info_panel.html</Path>
+                  <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
                   <Anchor>a79fac083cd00a926ba620ee17bed2826</Anchor>
                  </Node>
                  <Node>
                   <Name>draw</Name>
-                  <Path>class_g_u_i_card_info_panel.html</Path>
+                  <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
                   <Anchor>ac0daa41972b98e0091d3c2fc7226a7ac</Anchor>
                  </Node>
                  <Node>
                   <Name>setCardDescription</Name>
-                  <Path>class_g_u_i_card_info_panel.html</Path>
+                  <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
                   <Anchor>a0287652058427adfc1667a160f64201a</Anchor>
                  </Node>
                  <Node>
                   <Name>setCardImage</Name>
-                  <Path>class_g_u_i_card_info_panel.html</Path>
+                  <Path>dc/d96/class_g_u_i_card_info_panel.html</Path>
                   <Anchor>a69175b6a6de0abeb3ab25aafa3bc518d</Anchor>
                  </Node>
                 </Subnodes>
@@ -1764,67 +1768,67 @@
              </Node>
              <Node>
               <Name>GUIGameState.h</Name>
-              <Path>_g_u_i_game_state_8h.html</Path>
+              <Path>d4/dcc/_g_u_i_game_state_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>GUIGameState</Name>
-                <Path>class_g_u_i_game_state.html</Path>
+                <Path>d1/d51/class_g_u_i_game_state.html</Path>
               <Subnodes>
                  <Node>
                   <Name>GUIGameState</Name>
-                  <Path>class_g_u_i_game_state.html</Path>
+                  <Path>d1/d51/class_g_u_i_game_state.html</Path>
                   <Anchor>a66863fb544ac6cc59f095d08212f37c9</Anchor>
                  </Node>
                  <Node>
                   <Name>~GUIGameState</Name>
-                  <Path>class_g_u_i_game_state.html</Path>
+                  <Path>d1/d51/class_g_u_i_game_state.html</Path>
                   <Anchor>ae93f770a1554ae5b92fa5253509b3560</Anchor>
                  </Node>
                  <Node>
                   <Name>getGUIGameState</Name>
-                  <Path>class_g_u_i_game_state.html</Path>
+                  <Path>d1/d51/class_g_u_i_game_state.html</Path>
                   <Anchor>a1990e91f5f1999201101e36a4ef6067e</Anchor>
                  </Node>
                  <Node>
                   <Name>getPreviousState</Name>
-                  <Path>class_g_u_i_game_state.html</Path>
+                  <Path>d1/d51/class_g_u_i_game_state.html</Path>
                   <Anchor>aa7bea67e381f68bc76c211964ae4a90c</Anchor>
                  </Node>
                  <Node>
                   <Name>setGUIGameState</Name>
-                  <Path>class_g_u_i_game_state.html</Path>
+                  <Path>d1/d51/class_g_u_i_game_state.html</Path>
                   <Anchor>a4c235b3640402e568632d7c36828d58c</Anchor>
                  </Node>
                 </Subnodes>
                </Node>
                <Node>
                 <Name>GuiState</Name>
-                <Path>_g_u_i_game_state_8h.html</Path>
+                <Path>d4/dcc/_g_u_i_game_state_8h.html</Path>
                 <Anchor>a0fb3a4d7c02dcbb252e59db165128d64</Anchor>
               <Subnodes>
                  <Node>
                   <Name>MAIN_MENU</Name>
-                  <Path>_g_u_i_game_state_8h.html</Path>
+                  <Path>d4/dcc/_g_u_i_game_state_8h.html</Path>
                   <Anchor>a0fb3a4d7c02dcbb252e59db165128d64ac22743f1fc74de09544ecc9bab74a17b</Anchor>
                  </Node>
                  <Node>
                   <Name>GAME</Name>
-                  <Path>_g_u_i_game_state_8h.html</Path>
+                  <Path>d4/dcc/_g_u_i_game_state_8h.html</Path>
                   <Anchor>a0fb3a4d7c02dcbb252e59db165128d64ad50cf309d7568040619ed26ee6835a84</Anchor>
                  </Node>
                  <Node>
                   <Name>PAUSE_MENU</Name>
-                  <Path>_g_u_i_game_state_8h.html</Path>
+                  <Path>d4/dcc/_g_u_i_game_state_8h.html</Path>
                   <Anchor>a0fb3a4d7c02dcbb252e59db165128d64a24915ae526675a41cfb378d20b1513f6</Anchor>
                  </Node>
                  <Node>
                   <Name>SETTINGS</Name>
-                  <Path>_g_u_i_game_state_8h.html</Path>
+                  <Path>d4/dcc/_g_u_i_game_state_8h.html</Path>
                   <Anchor>a0fb3a4d7c02dcbb252e59db165128d64ac678338caea29d77d56be2ea56325610</Anchor>
                  </Node>
                  <Node>
                   <Name>EXIT</Name>
-                  <Path>_g_u_i_game_state_8h.html</Path>
+                  <Path>d4/dcc/_g_u_i_game_state_8h.html</Path>
                   <Anchor>a0fb3a4d7c02dcbb252e59db165128d64a7a10b5d68d31711288e1fe0fa17dbf4f</Anchor>
                  </Node>
                 </Subnodes>
@@ -1833,35 +1837,35 @@
              </Node>
              <Node>
               <Name>GUIGameWindow.h</Name>
-              <Path>_g_u_i_game_window_8h.html</Path>
+              <Path>d7/d15/_g_u_i_game_window_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>GUIGameWindow</Name>
-                <Path>class_g_u_i_game_window.html</Path>
+                <Path>df/db5/class_g_u_i_game_window.html</Path>
               <Subnodes>
                  <Node>
                   <Name>GUIGameWindow</Name>
-                  <Path>class_g_u_i_game_window.html</Path>
+                  <Path>df/db5/class_g_u_i_game_window.html</Path>
                   <Anchor>a9267d0c9f33c7f066bf2c994238073f6</Anchor>
                  </Node>
                  <Node>
                   <Name>~GUIGameWindow</Name>
-                  <Path>class_g_u_i_game_window.html</Path>
+                  <Path>df/db5/class_g_u_i_game_window.html</Path>
                   <Anchor>adec3cd67ca3711586ca736a8a48c3d65</Anchor>
                  </Node>
                  <Node>
                   <Name>display</Name>
-                  <Path>class_g_u_i_game_window.html</Path>
+                  <Path>df/db5/class_g_u_i_game_window.html</Path>
                   <Anchor>ab23d521bc5474a70c9373cb756a4ddd6</Anchor>
                  </Node>
                  <Node>
                   <Name>isRunning</Name>
-                  <Path>class_g_u_i_game_window.html</Path>
+                  <Path>df/db5/class_g_u_i_game_window.html</Path>
                   <Anchor>a7f8472dfd606123f9597639bd4b96d9e</Anchor>
                  </Node>
                  <Node>
                   <Name>update</Name>
-                  <Path>class_g_u_i_game_window.html</Path>
+                  <Path>df/db5/class_g_u_i_game_window.html</Path>
                   <Anchor>a3f84ea04fab69c6e9d651fbec4110c23</Anchor>
                  </Node>
                 </Subnodes>
@@ -1870,35 +1874,35 @@
              </Node>
              <Node>
               <Name>GUIGraveyard.h</Name>
-              <Path>_g_u_i_graveyard_8h.html</Path>
+              <Path>db/dd4/_g_u_i_graveyard_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>GUIGraveyard</Name>
-                <Path>class_g_u_i_graveyard.html</Path>
+                <Path>df/d85/class_g_u_i_graveyard.html</Path>
               <Subnodes>
                  <Node>
                   <Name>GUIGraveyard</Name>
-                  <Path>class_g_u_i_graveyard.html</Path>
+                  <Path>df/d85/class_g_u_i_graveyard.html</Path>
                   <Anchor>a658fbbef0ec32494c56bd53a061fc856</Anchor>
                  </Node>
                  <Node>
                   <Name>GUIGraveyard</Name>
-                  <Path>class_g_u_i_graveyard.html</Path>
+                  <Path>df/d85/class_g_u_i_graveyard.html</Path>
                   <Anchor>a991c08089f0d2cea5b6094ef9e5737e0</Anchor>
                  </Node>
                  <Node>
                   <Name>~GUIGraveyard</Name>
-                  <Path>class_g_u_i_graveyard.html</Path>
+                  <Path>df/d85/class_g_u_i_graveyard.html</Path>
                   <Anchor>a33404db8e0c31659966bbc96c1409bcb</Anchor>
                  </Node>
                  <Node>
                   <Name>draw</Name>
-                  <Path>class_g_u_i_graveyard.html</Path>
+                  <Path>df/d85/class_g_u_i_graveyard.html</Path>
                   <Anchor>ae4e01cdb7ba9f7e96ca031f146dd1037</Anchor>
                  </Node>
                  <Node>
                   <Name>draw</Name>
-                  <Path>class_g_u_i_graveyard.html</Path>
+                  <Path>df/d85/class_g_u_i_graveyard.html</Path>
                   <Anchor>aff4fb47155f84efc2cd94fe5d5c63caa</Anchor>
                  </Node>
                 </Subnodes>
@@ -1907,45 +1911,45 @@
              </Node>
              <Node>
               <Name>GUIHand.h</Name>
-              <Path>_g_u_i_hand_8h.html</Path>
+              <Path>d4/dd2/_g_u_i_hand_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>GUIHand</Name>
-                <Path>class_g_u_i_hand.html</Path>
+                <Path>d5/d76/class_g_u_i_hand.html</Path>
               <Subnodes>
                  <Node>
                   <Name>GUIHand</Name>
-                  <Path>class_g_u_i_hand.html</Path>
+                  <Path>d5/d76/class_g_u_i_hand.html</Path>
                   <Anchor>a6cdbd74e254436a208aba29c097c2f2e</Anchor>
                  </Node>
                  <Node>
                   <Name>GUIHand</Name>
-                  <Path>class_g_u_i_hand.html</Path>
+                  <Path>d5/d76/class_g_u_i_hand.html</Path>
                   <Anchor>a00061b673cfdcb57d7c366112290142b</Anchor>
                  </Node>
                  <Node>
                   <Name>~GUIHand</Name>
-                  <Path>class_g_u_i_hand.html</Path>
+                  <Path>d5/d76/class_g_u_i_hand.html</Path>
                   <Anchor>af85885efcb8d69e67468e360e132dd94</Anchor>
                  </Node>
                  <Node>
                   <Name>draw</Name>
-                  <Path>class_g_u_i_hand.html</Path>
+                  <Path>d5/d76/class_g_u_i_hand.html</Path>
                   <Anchor>a07f3629b3d6f883389d62a19d5989431</Anchor>
                  </Node>
                  <Node>
                   <Name>draw</Name>
-                  <Path>class_g_u_i_hand.html</Path>
+                  <Path>d5/d76/class_g_u_i_hand.html</Path>
                   <Anchor>a3e6c18c4784f6b65540f046c54988576</Anchor>
                  </Node>
                  <Node>
                   <Name>getClickedCardAreaIndex</Name>
-                  <Path>class_g_u_i_hand.html</Path>
+                  <Path>d5/d76/class_g_u_i_hand.html</Path>
                   <Anchor>a6964c9350845a81fce81b07e55454139</Anchor>
                  </Node>
                  <Node>
                   <Name>update</Name>
-                  <Path>class_g_u_i_hand.html</Path>
+                  <Path>d5/d76/class_g_u_i_hand.html</Path>
                   <Anchor>add198f5596332e0b5b76a60ff3af0daa</Anchor>
                  </Node>
                 </Subnodes>
@@ -1954,35 +1958,35 @@
              </Node>
              <Node>
               <Name>GUILifeBar.h</Name>
-              <Path>_g_u_i_life_bar_8h.html</Path>
+              <Path>d3/dab/_g_u_i_life_bar_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>GUILifeBar</Name>
-                <Path>class_g_u_i_life_bar.html</Path>
+                <Path>de/d92/class_g_u_i_life_bar.html</Path>
               <Subnodes>
                  <Node>
                   <Name>GUILifeBar</Name>
-                  <Path>class_g_u_i_life_bar.html</Path>
+                  <Path>de/d92/class_g_u_i_life_bar.html</Path>
                   <Anchor>a7640039daeaa86e385911b50fa52bda1</Anchor>
                  </Node>
                  <Node>
                   <Name>GUILifeBar</Name>
-                  <Path>class_g_u_i_life_bar.html</Path>
+                  <Path>de/d92/class_g_u_i_life_bar.html</Path>
                   <Anchor>a1329993a7e4bd304f94ba8880ff3eebb</Anchor>
                  </Node>
                  <Node>
                   <Name>~GUILifeBar</Name>
-                  <Path>class_g_u_i_life_bar.html</Path>
+                  <Path>de/d92/class_g_u_i_life_bar.html</Path>
                   <Anchor>a210ca2bd5e353cf7913d8c80e65b0135</Anchor>
                  </Node>
                  <Node>
                   <Name>draw</Name>
-                  <Path>class_g_u_i_life_bar.html</Path>
+                  <Path>de/d92/class_g_u_i_life_bar.html</Path>
                   <Anchor>ace5cd3bf84bc286a681a55fab0de25cb</Anchor>
                  </Node>
                  <Node>
                   <Name>update</Name>
-                  <Path>class_g_u_i_life_bar.html</Path>
+                  <Path>de/d92/class_g_u_i_life_bar.html</Path>
                   <Anchor>adceb893664505417d6914d4c15fd72a1</Anchor>
                  </Node>
                 </Subnodes>
@@ -1991,35 +1995,35 @@
              </Node>
              <Node>
               <Name>GUIMainMenuWindow.h</Name>
-              <Path>_g_u_i_main_menu_window_8h.html</Path>
+              <Path>d4/d09/_g_u_i_main_menu_window_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>GUIMainMenuWindow</Name>
-                <Path>class_g_u_i_main_menu_window.html</Path>
+                <Path>d1/dea/class_g_u_i_main_menu_window.html</Path>
               <Subnodes>
                  <Node>
                   <Name>GUIMainMenuWindow</Name>
-                  <Path>class_g_u_i_main_menu_window.html</Path>
+                  <Path>d1/dea/class_g_u_i_main_menu_window.html</Path>
                   <Anchor>ad7940e3890f3ea709fc73444d7bf5de5</Anchor>
                  </Node>
                  <Node>
                   <Name>~GUIMainMenuWindow</Name>
-                  <Path>class_g_u_i_main_menu_window.html</Path>
+                  <Path>d1/dea/class_g_u_i_main_menu_window.html</Path>
                   <Anchor>a95e7be181d5b18c4c3fa5b3c9d1c6532</Anchor>
                  </Node>
                  <Node>
                   <Name>display</Name>
-                  <Path>class_g_u_i_main_menu_window.html</Path>
+                  <Path>d1/dea/class_g_u_i_main_menu_window.html</Path>
                   <Anchor>ab42257aeb4391aaabc30f8dedbcf1a8f</Anchor>
                  </Node>
                  <Node>
                   <Name>isRunning</Name>
-                  <Path>class_g_u_i_main_menu_window.html</Path>
+                  <Path>d1/dea/class_g_u_i_main_menu_window.html</Path>
                   <Anchor>ae89836c7fa03748068577c7645e9e63f</Anchor>
                  </Node>
                  <Node>
                   <Name>update</Name>
-                  <Path>class_g_u_i_main_menu_window.html</Path>
+                  <Path>d1/dea/class_g_u_i_main_menu_window.html</Path>
                   <Anchor>a97e4ff6321d570daac9c13bab18dc2be</Anchor>
                  </Node>
                 </Subnodes>
@@ -2028,35 +2032,35 @@
              </Node>
              <Node>
               <Name>GUIPauseMenu.h</Name>
-              <Path>_g_u_i_pause_menu_8h.html</Path>
+              <Path>d0/d26/_g_u_i_pause_menu_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>GUIPauseMenu</Name>
-                <Path>class_g_u_i_pause_menu.html</Path>
+                <Path>d7/ded/class_g_u_i_pause_menu.html</Path>
               <Subnodes>
                  <Node>
                   <Name>GUIPauseMenu</Name>
-                  <Path>class_g_u_i_pause_menu.html</Path>
+                  <Path>d7/ded/class_g_u_i_pause_menu.html</Path>
                   <Anchor>a3b97d9742a32fc4bfa2071310d503f3d</Anchor>
                  </Node>
                  <Node>
                   <Name>~GUIPauseMenu</Name>
-                  <Path>class_g_u_i_pause_menu.html</Path>
+                  <Path>d7/ded/class_g_u_i_pause_menu.html</Path>
                   <Anchor>ab2b7ee80fb2f882b400f87b7eb75a241</Anchor>
                  </Node>
                  <Node>
                   <Name>display</Name>
-                  <Path>class_g_u_i_pause_menu.html</Path>
+                  <Path>d7/ded/class_g_u_i_pause_menu.html</Path>
                   <Anchor>a3120b07ccc2a1ea43d02358edb826560</Anchor>
                  </Node>
                  <Node>
                   <Name>isRunning</Name>
-                  <Path>class_g_u_i_pause_menu.html</Path>
+                  <Path>d7/ded/class_g_u_i_pause_menu.html</Path>
                   <Anchor>a561f30f6de59d69ff1fcdb4d3afef4cb</Anchor>
                  </Node>
                  <Node>
                   <Name>update</Name>
-                  <Path>class_g_u_i_pause_menu.html</Path>
+                  <Path>d7/ded/class_g_u_i_pause_menu.html</Path>
                   <Anchor>a84f27280f615b68e8b3787d9b33ca668</Anchor>
                  </Node>
                 </Subnodes>
@@ -2065,40 +2069,40 @@
              </Node>
              <Node>
               <Name>GUIPhaseText.h</Name>
-              <Path>_g_u_i_phase_text_8h.html</Path>
+              <Path>da/da6/_g_u_i_phase_text_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>GUIPhaseText</Name>
-                <Path>class_g_u_i_phase_text.html</Path>
+                <Path>d5/dbc/class_g_u_i_phase_text.html</Path>
               <Subnodes>
                  <Node>
                   <Name>GUIPhaseText</Name>
-                  <Path>class_g_u_i_phase_text.html</Path>
+                  <Path>d5/dbc/class_g_u_i_phase_text.html</Path>
                   <Anchor>ae758f2296b1da7bba7f73eef7c585672</Anchor>
                  </Node>
                  <Node>
                   <Name>animate</Name>
-                  <Path>class_g_u_i_phase_text.html</Path>
+                  <Path>d5/dbc/class_g_u_i_phase_text.html</Path>
                   <Anchor>ae20ef093eeccbc1f9bd068dd0677ad3d</Anchor>
                  </Node>
                  <Node>
                   <Name>draw</Name>
-                  <Path>class_g_u_i_phase_text.html</Path>
+                  <Path>d5/dbc/class_g_u_i_phase_text.html</Path>
                   <Anchor>aef17b1643c0544a6f6f904216ca88d71</Anchor>
                  </Node>
                  <Node>
                   <Name>draw</Name>
-                  <Path>class_g_u_i_phase_text.html</Path>
+                  <Path>d5/dbc/class_g_u_i_phase_text.html</Path>
                   <Anchor>a5d38d690a71b3810ac30e5c68c051864</Anchor>
                  </Node>
                  <Node>
                   <Name>resetTextPosition</Name>
-                  <Path>class_g_u_i_phase_text.html</Path>
+                  <Path>d5/dbc/class_g_u_i_phase_text.html</Path>
                   <Anchor>a0e7ec4c05dbdf70ae097648982436088</Anchor>
                  </Node>
                  <Node>
                   <Name>setTextString</Name>
-                  <Path>class_g_u_i_phase_text.html</Path>
+                  <Path>d5/dbc/class_g_u_i_phase_text.html</Path>
                   <Anchor>aca1507a3ea11a65d66667ee680e63454</Anchor>
                  </Node>
                 </Subnodes>
@@ -2107,40 +2111,40 @@
              </Node>
              <Node>
               <Name>GUIPlayerPanel.h</Name>
-              <Path>_g_u_i_player_panel_8h.html</Path>
+              <Path>d1/d95/_g_u_i_player_panel_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>GUIPlayerPanel</Name>
-                <Path>class_g_u_i_player_panel.html</Path>
+                <Path>d4/d7c/class_g_u_i_player_panel.html</Path>
               <Subnodes>
                  <Node>
                   <Name>GUIPlayerPanel</Name>
-                  <Path>class_g_u_i_player_panel.html</Path>
+                  <Path>d4/d7c/class_g_u_i_player_panel.html</Path>
                   <Anchor>af8e820dfc0e92c5f516718cf82d00045</Anchor>
                  </Node>
                  <Node>
                   <Name>GUIPlayerPanel</Name>
-                  <Path>class_g_u_i_player_panel.html</Path>
+                  <Path>d4/d7c/class_g_u_i_player_panel.html</Path>
                   <Anchor>ac0440c361a414c2c1272cf2476db6a39</Anchor>
                  </Node>
                  <Node>
                   <Name>~GUIPlayerPanel</Name>
-                  <Path>class_g_u_i_player_panel.html</Path>
+                  <Path>d4/d7c/class_g_u_i_player_panel.html</Path>
                   <Anchor>a32bb72901f394bb83271f400314aa0d5</Anchor>
                  </Node>
                  <Node>
                   <Name>draw</Name>
-                  <Path>class_g_u_i_player_panel.html</Path>
+                  <Path>d4/d7c/class_g_u_i_player_panel.html</Path>
                   <Anchor>a991eec48472cce659bab35af9a31ce6d</Anchor>
                  </Node>
                  <Node>
                   <Name>draw</Name>
-                  <Path>class_g_u_i_player_panel.html</Path>
+                  <Path>d4/d7c/class_g_u_i_player_panel.html</Path>
                   <Anchor>a0b535efb3fe039f76847391bd04c8029</Anchor>
                  </Node>
                  <Node>
                   <Name>update</Name>
-                  <Path>class_g_u_i_player_panel.html</Path>
+                  <Path>d4/d7c/class_g_u_i_player_panel.html</Path>
                   <Anchor>ae4349624294bb15e2de8c96c5a01fadc</Anchor>
                  </Node>
                 </Subnodes>
@@ -2149,45 +2153,45 @@
              </Node>
              <Node>
               <Name>GUIPlayingField.h</Name>
-              <Path>_g_u_i_playing_field_8h.html</Path>
+              <Path>d9/d52/_g_u_i_playing_field_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>GUIPlayingField</Name>
-                <Path>class_g_u_i_playing_field.html</Path>
+                <Path>d8/da0/class_g_u_i_playing_field.html</Path>
               <Subnodes>
                  <Node>
                   <Name>GUIPlayingField</Name>
-                  <Path>class_g_u_i_playing_field.html</Path>
+                  <Path>d8/da0/class_g_u_i_playing_field.html</Path>
                   <Anchor>a4d990fcadc9892f633c9639ca23bcfa1</Anchor>
                  </Node>
                  <Node>
                   <Name>GUIPlayingField</Name>
-                  <Path>class_g_u_i_playing_field.html</Path>
+                  <Path>d8/da0/class_g_u_i_playing_field.html</Path>
                   <Anchor>ab0cfbf38024219bc9b793d6cb2ce3bcc</Anchor>
                  </Node>
                  <Node>
                   <Name>~GUIPlayingField</Name>
-                  <Path>class_g_u_i_playing_field.html</Path>
+                  <Path>d8/da0/class_g_u_i_playing_field.html</Path>
                   <Anchor>a735771b682654783034f0e892ee87ec4</Anchor>
                  </Node>
                  <Node>
                   <Name>draw</Name>
-                  <Path>class_g_u_i_playing_field.html</Path>
+                  <Path>d8/da0/class_g_u_i_playing_field.html</Path>
                   <Anchor>a71e7a03c0e0cae4f125c7bdc4424287d</Anchor>
                  </Node>
                  <Node>
                   <Name>draw</Name>
-                  <Path>class_g_u_i_playing_field.html</Path>
+                  <Path>d8/da0/class_g_u_i_playing_field.html</Path>
                   <Anchor>a69e8c074880b15c9be2c5bf3a91c5a52</Anchor>
                  </Node>
                  <Node>
                   <Name>getClickedMonsterCardAreaIndex</Name>
-                  <Path>class_g_u_i_playing_field.html</Path>
+                  <Path>d8/da0/class_g_u_i_playing_field.html</Path>
                   <Anchor>a0a37d76f9aa891e7b0017c1480f51439</Anchor>
                  </Node>
                  <Node>
                   <Name>getClickedSpellTrapCardAreaIndex</Name>
-                  <Path>class_g_u_i_playing_field.html</Path>
+                  <Path>d8/da0/class_g_u_i_playing_field.html</Path>
                   <Anchor>a005f293c28a0aa1507c1fa6423aedb5c</Anchor>
                  </Node>
                 </Subnodes>
@@ -2196,45 +2200,45 @@
              </Node>
              <Node>
               <Name>GUISettings.h</Name>
-              <Path>_g_u_i_settings_8h.html</Path>
+              <Path>d7/d1e/_g_u_i_settings_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>GUISettings</Name>
-                <Path>class_g_u_i_settings.html</Path>
+                <Path>df/d39/class_g_u_i_settings.html</Path>
               <Subnodes>
                  <Node>
                   <Name>GUISettings</Name>
-                  <Path>class_g_u_i_settings.html</Path>
+                  <Path>df/d39/class_g_u_i_settings.html</Path>
                   <Anchor>ad80f445368461011ae65432a56d24ad2</Anchor>
                  </Node>
                  <Node>
                   <Name>~GUISettings</Name>
-                  <Path>class_g_u_i_settings.html</Path>
+                  <Path>df/d39/class_g_u_i_settings.html</Path>
                   <Anchor>a1302bbc2bf5aeaf7b720a0f115a3d0cc</Anchor>
                  </Node>
                  <Node>
                   <Name>display</Name>
-                  <Path>class_g_u_i_settings.html</Path>
+                  <Path>df/d39/class_g_u_i_settings.html</Path>
                   <Anchor>a4cfde3bfb6834cf86285ecdb206768dc</Anchor>
                  </Node>
                  <Node>
                   <Name>getVolumeLevel</Name>
-                  <Path>class_g_u_i_settings.html</Path>
+                  <Path>df/d39/class_g_u_i_settings.html</Path>
                   <Anchor>a4551dd9604f4659caf3c46acf9c8f713</Anchor>
                  </Node>
                  <Node>
                   <Name>initElements</Name>
-                  <Path>class_g_u_i_settings.html</Path>
+                  <Path>df/d39/class_g_u_i_settings.html</Path>
                   <Anchor>a020d4d9b909accf83b72b3cc6f37baaa</Anchor>
                  </Node>
                  <Node>
                   <Name>isRunning</Name>
-                  <Path>class_g_u_i_settings.html</Path>
+                  <Path>df/d39/class_g_u_i_settings.html</Path>
                   <Anchor>a259ed2ca290ecc7bc80302ac65b77690</Anchor>
                  </Node>
                  <Node>
                   <Name>update</Name>
-                  <Path>class_g_u_i_settings.html</Path>
+                  <Path>df/d39/class_g_u_i_settings.html</Path>
                   <Anchor>a93033340499e4a19b736974fcf406f30</Anchor>
                  </Node>
                 </Subnodes>
@@ -2243,65 +2247,65 @@
              </Node>
              <Node>
               <Name>GUIWindow.h</Name>
-              <Path>_g_u_i_window_8h.html</Path>
+              <Path>d5/d0b/_g_u_i_window_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>GUIWindow</Name>
-                <Path>class_g_u_i_window.html</Path>
+                <Path>d4/d38/class_g_u_i_window.html</Path>
               <Subnodes>
                  <Node>
                   <Name>GUIWindow</Name>
-                  <Path>class_g_u_i_window.html</Path>
+                  <Path>d4/d38/class_g_u_i_window.html</Path>
                   <Anchor>afe83687c002df5b12f5ea8bb5c998de1</Anchor>
                  </Node>
                  <Node>
                   <Name>~GUIWindow</Name>
-                  <Path>class_g_u_i_window.html</Path>
+                  <Path>d4/d38/class_g_u_i_window.html</Path>
                   <Anchor>a9c6d4277ffc74763b0a19fcdf15a5b7c</Anchor>
                  </Node>
                  <Node>
                   <Name>display</Name>
-                  <Path>class_g_u_i_window.html</Path>
+                  <Path>d4/d38/class_g_u_i_window.html</Path>
                   <Anchor>a158f3421d3b58e8ec3030d999003fd99</Anchor>
                  </Node>
                  <Node>
                   <Name>initButtons</Name>
-                  <Path>class_g_u_i_window.html</Path>
+                  <Path>d4/d38/class_g_u_i_window.html</Path>
                   <Anchor>a6afcf4018d52cd543d5a3ecfd469b878</Anchor>
                  </Node>
                  <Node>
                   <Name>initTextures</Name>
-                  <Path>class_g_u_i_window.html</Path>
+                  <Path>d4/d38/class_g_u_i_window.html</Path>
                   <Anchor>ada5bffb83b791fdd0b89bb0194714b20</Anchor>
                  </Node>
                  <Node>
                   <Name>initWindow</Name>
-                  <Path>class_g_u_i_window.html</Path>
+                  <Path>d4/d38/class_g_u_i_window.html</Path>
                   <Anchor>a7c042a534d5916f72ff3000c4982fa85</Anchor>
                  </Node>
                  <Node>
                   <Name>initWindowElements</Name>
-                  <Path>class_g_u_i_window.html</Path>
+                  <Path>d4/d38/class_g_u_i_window.html</Path>
                   <Anchor>aececc676c204322ed32e48638eeebaa7</Anchor>
                  </Node>
                  <Node>
                   <Name>isRunning</Name>
-                  <Path>class_g_u_i_window.html</Path>
+                  <Path>d4/d38/class_g_u_i_window.html</Path>
                   <Anchor>ae2cc4fa0aa8a103279f3eab82af7759b</Anchor>
                  </Node>
                  <Node>
                   <Name>update</Name>
-                  <Path>class_g_u_i_window.html</Path>
+                  <Path>d4/d38/class_g_u_i_window.html</Path>
                   <Anchor>a292fbb8ddba6d122eeb81bd6c32936f4</Anchor>
                  </Node>
                  <Node>
                   <Name>event</Name>
-                  <Path>class_g_u_i_window.html</Path>
+                  <Path>d4/d38/class_g_u_i_window.html</Path>
                   <Anchor>affcfc694355df773f61029a11155bd75</Anchor>
                  </Node>
                  <Node>
                   <Name>window</Name>
-                  <Path>class_g_u_i_window.html</Path>
+                  <Path>d4/d38/class_g_u_i_window.html</Path>
                   <Anchor>af4c3b32667cb9c6c3b95b050ff078281</Anchor>
                  </Node>
                 </Subnodes>
@@ -2310,40 +2314,40 @@
              </Node>
              <Node>
               <Name>GUIWindowElement.h</Name>
-              <Path>_g_u_i_window_element_8h.html</Path>
+              <Path>d8/d79/_g_u_i_window_element_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>GUIWindowElement</Name>
-                <Path>class_g_u_i_window_element.html</Path>
+                <Path>d7/d01/class_g_u_i_window_element.html</Path>
               <Subnodes>
                  <Node>
                   <Name>GUIWindowElement</Name>
-                  <Path>class_g_u_i_window_element.html</Path>
+                  <Path>d7/d01/class_g_u_i_window_element.html</Path>
                   <Anchor>ab3f1488f3c458ac342809714666b5e92</Anchor>
                  </Node>
                  <Node>
                   <Name>GUIWindowElement</Name>
-                  <Path>class_g_u_i_window_element.html</Path>
+                  <Path>d7/d01/class_g_u_i_window_element.html</Path>
                   <Anchor>a150aa327037a15c8cf9733f36c80743c</Anchor>
                  </Node>
                  <Node>
                   <Name>~GUIWindowElement</Name>
-                  <Path>class_g_u_i_window_element.html</Path>
+                  <Path>d7/d01/class_g_u_i_window_element.html</Path>
                   <Anchor>a65a75a74904c27fc30875410233a02e9</Anchor>
                  </Node>
                  <Node>
                   <Name>draw</Name>
-                  <Path>class_g_u_i_window_element.html</Path>
+                  <Path>d7/d01/class_g_u_i_window_element.html</Path>
                   <Anchor>ad05dfe007625dcded413e2968b9f91b2</Anchor>
                  </Node>
                  <Node>
                   <Name>basePositionX</Name>
-                  <Path>class_g_u_i_window_element.html</Path>
+                  <Path>d7/d01/class_g_u_i_window_element.html</Path>
                   <Anchor>a9c9c9a29d430f834dee2a347fcd0c808</Anchor>
                  </Node>
                  <Node>
                   <Name>basePositionY</Name>
-                  <Path>class_g_u_i_window_element.html</Path>
+                  <Path>d7/d01/class_g_u_i_window_element.html</Path>
                   <Anchor>aa4ba798cea1a0a8e8c1df3b7927e7d24</Anchor>
                  </Node>
                 </Subnodes>
@@ -2352,162 +2356,162 @@
              </Node>
              <Node>
               <Name>MonsterCard.h</Name>
-              <Path>_monster_card_8h.html</Path>
+              <Path>db/d50/_monster_card_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>MonsterCard</Name>
-                <Path>class_monster_card.html</Path>
+                <Path>d2/d04/class_monster_card.html</Path>
               <Subnodes>
                  <Node>
                   <Name>MonsterCard</Name>
-                  <Path>class_monster_card.html</Path>
+                  <Path>d2/d04/class_monster_card.html</Path>
                   <Anchor>adc5e938cf4906eb6cfe3d17ff00e4b6c</Anchor>
                  </Node>
                  <Node>
                   <Name>~MonsterCard</Name>
-                  <Path>class_monster_card.html</Path>
+                  <Path>d2/d04/class_monster_card.html</Path>
                   <Anchor>a0a840f0029629ef493608b86d5063177</Anchor>
                  </Node>
                  <Node>
                   <Name>changeMode</Name>
-                  <Path>class_monster_card.html</Path>
+                  <Path>d2/d04/class_monster_card.html</Path>
                   <Anchor>a0307299fb1dbeb0909e67d7db3208cfe</Anchor>
                  </Node>
                  <Node>
                   <Name>getActivePoints</Name>
-                  <Path>class_monster_card.html</Path>
+                  <Path>d2/d04/class_monster_card.html</Path>
                   <Anchor>ac1982e6774175ac3e3ac77729c7afc94</Anchor>
                  </Node>
                  <Node>
                   <Name>getAttackPoints</Name>
-                  <Path>class_monster_card.html</Path>
+                  <Path>d2/d04/class_monster_card.html</Path>
                   <Anchor>a43700db6446571e93e5891b97a25fa73</Anchor>
                  </Node>
                  <Node>
                   <Name>getCardDetails</Name>
-                  <Path>class_monster_card.html</Path>
+                  <Path>d2/d04/class_monster_card.html</Path>
                   <Anchor>a26519397f41a7fc8ff3163c24f1688f6</Anchor>
                  </Node>
                  <Node>
                   <Name>getDefensePoints</Name>
-                  <Path>class_monster_card.html</Path>
+                  <Path>d2/d04/class_monster_card.html</Path>
                   <Anchor>a899965b26dee9cd577e5f151fa530f1e</Anchor>
                  </Node>
                  <Node>
                   <Name>getLevel</Name>
-                  <Path>class_monster_card.html</Path>
+                  <Path>d2/d04/class_monster_card.html</Path>
                   <Anchor>a1967af3dbce620d1c625123243c3c1b0</Anchor>
                  </Node>
                  <Node>
                   <Name>getType</Name>
-                  <Path>class_monster_card.html</Path>
+                  <Path>d2/d04/class_monster_card.html</Path>
                   <Anchor>aab6910a4ad731e4bd21c26931c010eb2</Anchor>
                  </Node>
                  <Node>
                   <Name>isAttackMode</Name>
-                  <Path>class_monster_card.html</Path>
+                  <Path>d2/d04/class_monster_card.html</Path>
                   <Anchor>a9ef0298ccbea7919685fb4f54ead2ed8</Anchor>
                  </Node>
                  <Node>
                   <Name>setActivePoints</Name>
-                  <Path>class_monster_card.html</Path>
+                  <Path>d2/d04/class_monster_card.html</Path>
                   <Anchor>ae87b9647a741ef20dc4f4f0df55a9b32</Anchor>
                  </Node>
                  <Node>
                   <Name>setAttackPoints</Name>
-                  <Path>class_monster_card.html</Path>
+                  <Path>d2/d04/class_monster_card.html</Path>
                   <Anchor>a21fdad1c1d8020674705f31245d22ca4</Anchor>
                  </Node>
                  <Node>
                   <Name>setDefensePoints</Name>
-                  <Path>class_monster_card.html</Path>
+                  <Path>d2/d04/class_monster_card.html</Path>
                   <Anchor>aee3d963145da4b6dba9c6f1ca4c1649f</Anchor>
                  </Node>
                  <Node>
                   <Name>setMode</Name>
-                  <Path>class_monster_card.html</Path>
+                  <Path>d2/d04/class_monster_card.html</Path>
                   <Anchor>afcc3ddc3ca0df31754edb3d2a6dcf229</Anchor>
                  </Node>
                 </Subnodes>
                </Node>
                <Node>
                 <Name>MonsterType</Name>
-                <Path>_monster_card_8h.html</Path>
+                <Path>db/d50/_monster_card_8h.html</Path>
                 <Anchor>abd758b4216b3fc46a32b2f1a359b3492</Anchor>
               <Subnodes>
                  <Node>
                   <Name>DRAGON</Name>
-                  <Path>_monster_card_8h.html</Path>
+                  <Path>db/d50/_monster_card_8h.html</Path>
                   <Anchor>abd758b4216b3fc46a32b2f1a359b3492a715823e7de6bbbbdd0de7fe00a9c05d6</Anchor>
                  </Node>
                  <Node>
                   <Name>SPELLCASTER</Name>
-                  <Path>_monster_card_8h.html</Path>
+                  <Path>db/d50/_monster_card_8h.html</Path>
                   <Anchor>abd758b4216b3fc46a32b2f1a359b3492a484640b68633c0505c57caa5914eec32</Anchor>
                  </Node>
                  <Node>
                   <Name>WARRIOR</Name>
-                  <Path>_monster_card_8h.html</Path>
+                  <Path>db/d50/_monster_card_8h.html</Path>
                   <Anchor>abd758b4216b3fc46a32b2f1a359b3492ac3109826ceb9cb90f4ebbc2f391bb054</Anchor>
                  </Node>
                  <Node>
                   <Name>BEAST_WARRIOR</Name>
-                  <Path>_monster_card_8h.html</Path>
+                  <Path>db/d50/_monster_card_8h.html</Path>
                   <Anchor>abd758b4216b3fc46a32b2f1a359b3492ae031dc477212e2470086c296f8313048</Anchor>
                  </Node>
                  <Node>
                   <Name>BEAST</Name>
-                  <Path>_monster_card_8h.html</Path>
+                  <Path>db/d50/_monster_card_8h.html</Path>
                   <Anchor>abd758b4216b3fc46a32b2f1a359b3492ab6ed1296be5757c2b28b61405b632e25</Anchor>
                  </Node>
                  <Node>
                   <Name>FIEND</Name>
-                  <Path>_monster_card_8h.html</Path>
+                  <Path>db/d50/_monster_card_8h.html</Path>
                   <Anchor>abd758b4216b3fc46a32b2f1a359b3492a2a716fa3e00819c3601b8f382164274e</Anchor>
                  </Node>
                  <Node>
                   <Name>ROCK</Name>
-                  <Path>_monster_card_8h.html</Path>
+                  <Path>db/d50/_monster_card_8h.html</Path>
                   <Anchor>abd758b4216b3fc46a32b2f1a359b3492ab39e373af8c527684a4f0ded36bd961c</Anchor>
                  </Node>
                  <Node>
                   <Name>DINOSAUR</Name>
-                  <Path>_monster_card_8h.html</Path>
+                  <Path>db/d50/_monster_card_8h.html</Path>
                   <Anchor>abd758b4216b3fc46a32b2f1a359b3492aa939c515d0fe98db15cea7766328b227</Anchor>
                  </Node>
                  <Node>
                   <Name>AQUA</Name>
-                  <Path>_monster_card_8h.html</Path>
+                  <Path>db/d50/_monster_card_8h.html</Path>
                   <Anchor>abd758b4216b3fc46a32b2f1a359b3492a41fea54b79e31e2cc235ca6e98be6933</Anchor>
                  </Node>
                  <Node>
                   <Name>MACHINE</Name>
-                  <Path>_monster_card_8h.html</Path>
+                  <Path>db/d50/_monster_card_8h.html</Path>
                   <Anchor>abd758b4216b3fc46a32b2f1a359b3492adf02ded475565758943c5d421224efec</Anchor>
                  </Node>
                  <Node>
                   <Name>DIVINE_BEAST</Name>
-                  <Path>_monster_card_8h.html</Path>
+                  <Path>db/d50/_monster_card_8h.html</Path>
                   <Anchor>abd758b4216b3fc46a32b2f1a359b3492a3144a0ccb0f4eb013ded1ca8a329f5de</Anchor>
                  </Node>
                  <Node>
                   <Name>SEA_SERPENT</Name>
-                  <Path>_monster_card_8h.html</Path>
+                  <Path>db/d50/_monster_card_8h.html</Path>
                   <Anchor>abd758b4216b3fc46a32b2f1a359b3492a05f26637a484e6e7bbf9bb0a152b4fb3</Anchor>
                  </Node>
                  <Node>
                   <Name>REPTILE</Name>
-                  <Path>_monster_card_8h.html</Path>
+                  <Path>db/d50/_monster_card_8h.html</Path>
                   <Anchor>abd758b4216b3fc46a32b2f1a359b3492a29993da614e7b1d689b3762d5295c73b</Anchor>
                  </Node>
                  <Node>
                   <Name>FAIRY</Name>
-                  <Path>_monster_card_8h.html</Path>
+                  <Path>db/d50/_monster_card_8h.html</Path>
                   <Anchor>abd758b4216b3fc46a32b2f1a359b3492a4384854f4fcd2aaba124fd121ee52b67</Anchor>
                  </Node>
                  <Node>
                   <Name>WINGED_BEAST</Name>
-                  <Path>_monster_card_8h.html</Path>
+                  <Path>db/d50/_monster_card_8h.html</Path>
                   <Anchor>abd758b4216b3fc46a32b2f1a359b3492a8d2253f1e62110fe4e8b72a94c2d4e0e</Anchor>
                  </Node>
                 </Subnodes>
@@ -2516,90 +2520,90 @@
              </Node>
              <Node>
               <Name>Player.h</Name>
-              <Path>_player_8h.html</Path>
+              <Path>d1/d39/_player_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>Player</Name>
-                <Path>class_player.html</Path>
+                <Path>d8/d53/class_player.html</Path>
               <Subnodes>
                  <Node>
                   <Name>Player</Name>
-                  <Path>class_player.html</Path>
+                  <Path>d8/d53/class_player.html</Path>
                   <Anchor>a0894a5c436a3faf6072bab1cc2edc0dd</Anchor>
                  </Node>
                  <Node>
                   <Name>~Player</Name>
-                  <Path>class_player.html</Path>
+                  <Path>d8/d53/class_player.html</Path>
                   <Anchor>a749d2c00e1fe0f5c2746f7505a58c062</Anchor>
                  </Node>
                  <Node>
                   <Name>addCardToHand</Name>
-                  <Path>class_player.html</Path>
+                  <Path>d8/d53/class_player.html</Path>
                   <Anchor>abf20ff01926f7f5222f5ad71dd0d6046</Anchor>
                  </Node>
                  <Node>
                   <Name>addCardToHandFromDeck</Name>
-                  <Path>class_player.html</Path>
+                  <Path>d8/d53/class_player.html</Path>
                   <Anchor>a1d983ff572237bfb5feb69849d043981</Anchor>
                  </Node>
                  <Node>
                   <Name>decreaseLifePoints</Name>
-                  <Path>class_player.html</Path>
+                  <Path>d8/d53/class_player.html</Path>
                   <Anchor>ab559089c389be6367a6a2cfd60e31de3</Anchor>
                  </Node>
                  <Node>
                   <Name>discard</Name>
-                  <Path>class_player.html</Path>
+                  <Path>d8/d53/class_player.html</Path>
                   <Anchor>af27d5adfd94e9b1c6ddca08c02d9f05b</Anchor>
                  </Node>
                  <Node>
                   <Name>getDeck</Name>
-                  <Path>class_player.html</Path>
+                  <Path>d8/d53/class_player.html</Path>
                   <Anchor>a8dcedf2150bc35ce8df9fed2c5cf9866</Anchor>
                  </Node>
                  <Node>
                   <Name>getHand</Name>
-                  <Path>class_player.html</Path>
+                  <Path>d8/d53/class_player.html</Path>
                   <Anchor>a347dcbd7b44526ea75aeddf6abea74eb</Anchor>
                  </Node>
                  <Node>
                   <Name>getLifePoints</Name>
-                  <Path>class_player.html</Path>
+                  <Path>d8/d53/class_player.html</Path>
                   <Anchor>ace8880854cbc798c48137ace2fdf1589</Anchor>
                  </Node>
                  <Node>
                   <Name>getName</Name>
-                  <Path>class_player.html</Path>
+                  <Path>d8/d53/class_player.html</Path>
                   <Anchor>a73e4ff2d70e62ca7e3be1d9b4ad9de85</Anchor>
                  </Node>
                  <Node>
                   <Name>getPlayingField</Name>
-                  <Path>class_player.html</Path>
+                  <Path>d8/d53/class_player.html</Path>
                   <Anchor>a1efdc907f3117c67214233b57bb8c3a4</Anchor>
                  </Node>
                  <Node>
                   <Name>increaseLifePoints</Name>
-                  <Path>class_player.html</Path>
+                  <Path>d8/d53/class_player.html</Path>
                   <Anchor>a653751edf8a1d23328539bb336c029c2</Anchor>
                  </Node>
                  <Node>
                   <Name>initializeDeck</Name>
-                  <Path>class_player.html</Path>
+                  <Path>d8/d53/class_player.html</Path>
                   <Anchor>a3480838c651e399e48b8849fba0bd802</Anchor>
                  </Node>
                  <Node>
                   <Name>removeCardFromHand</Name>
-                  <Path>class_player.html</Path>
+                  <Path>d8/d53/class_player.html</Path>
                   <Anchor>ac2a9076ea34b1edc266c35e2c919b14e</Anchor>
                  </Node>
                  <Node>
                   <Name>setLifePoints</Name>
-                  <Path>class_player.html</Path>
+                  <Path>d8/d53/class_player.html</Path>
                   <Anchor>a12d828ea9daf30d40923705978b5271a</Anchor>
                  </Node>
                  <Node>
                   <Name>tribute</Name>
-                  <Path>class_player.html</Path>
+                  <Path>d8/d53/class_player.html</Path>
                   <Anchor>aa596828563f0e6406b78f69b4e94e2c7</Anchor>
                  </Node>
                 </Subnodes>
@@ -2608,145 +2612,145 @@
              </Node>
              <Node>
               <Name>PlayingField.h</Name>
-              <Path>_playing_field_8h.html</Path>
+              <Path>db/d18/_playing_field_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>PlayingField</Name>
-                <Path>class_playing_field.html</Path>
+                <Path>dc/db5/class_playing_field.html</Path>
               <Subnodes>
                  <Node>
                   <Name>PlayingField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>a069f2d4f0d3798a28806bd7a192fc8e5</Anchor>
                  </Node>
                  <Node>
                   <Name>~PlayingField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>a7bc092c6433f18e7a07835608e8a4449</Anchor>
                  </Node>
                  <Node>
                   <Name>addCardToGraveyard</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>ae90103f6b138dafc00e2cf2c45c50267</Anchor>
                  </Node>
                  <Node>
                   <Name>addCardToGraveyard</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>a05b60bb0849baed4903bf44e04c5074d</Anchor>
                  </Node>
                  <Node>
                   <Name>addCardToGraveyard</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>ab3db2da775a9b6df071e6c6dfaf424d8</Anchor>
                  </Node>
                  <Node>
                   <Name>addCardToGraveyard</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>ad19423a18d27562c8b19cc58f7373126</Anchor>
                  </Node>
                  <Node>
                   <Name>addCardToPlayingField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>affe81d1993bf8e61c5e60646445b8374</Anchor>
                  </Node>
                  <Node>
                   <Name>addCardToPlayingField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>a17a805d491a6e58b25aa0f937906dabe</Anchor>
                  </Node>
                  <Node>
                   <Name>addCardToPlayingField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>ab534ca22159846e4746a65ef9a9ff7cb</Anchor>
                  </Node>
                  <Node>
                   <Name>addCardToPlayingField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>ab2eea15a2e22e753d438a86bcb5f5d72</Anchor>
                  </Node>
                  <Node>
                   <Name>getCountOfActiveMonsters</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>a62a1288f08e8c29a3166bf2411574ab7</Anchor>
                  </Node>
                  <Node>
                   <Name>getGraveyard</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>a604323585e7495451f442127f21d3eb0</Anchor>
                  </Node>
                  <Node>
                   <Name>getMonsterCardsInGraveyard</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>a8619da1d18c4f90247bcb8e6b183ce5c</Anchor>
                  </Node>
                  <Node>
                   <Name>getMonsterField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>a9267d9cc1932bf9284f682e77571ff74</Anchor>
                  </Node>
                  <Node>
                   <Name>getSpellTrapField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>a3707b232bab95f4ffbbbe2e1846ba9a7</Anchor>
                  </Node>
                  <Node>
                   <Name>getStrongestMonsterInField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>ae7962c0a40c1cff5854939532ec63a7f</Anchor>
                  </Node>
                  <Node>
                   <Name>getStrongestMonsterInGY</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>a9027748efdafd9fc81ab069375ef23ed</Anchor>
                  </Node>
                  <Node>
                   <Name>getWeakestMonsterInField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>ae9e1eaae03ebd1be2cff7dee43109263</Anchor>
                  </Node>
                  <Node>
                   <Name>getWeakestMonsterInGY</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>a6c4fe47b4f15a963c89a1fcc4ac8c26d</Anchor>
                  </Node>
                  <Node>
                   <Name>isThereAttackingMonsterInField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>a5ab7ead8ba837a3945b0e60c1be6a134</Anchor>
                  </Node>
                  <Node>
                   <Name>isThereMonsterInField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>adfa66082ec2d50876fb26aad45463208</Anchor>
                  </Node>
                  <Node>
                   <Name>isThereTrapCardInField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>a367a80450516c551cc78ffe5b2be7384</Anchor>
                  </Node>
                  <Node>
                   <Name>removeCardFromMonsterField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>af0413bc519e7b7da4d98d771c6248d29</Anchor>
                  </Node>
                  <Node>
                   <Name>removeCardFromSpellTrapField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>a374a4cd647e5d1bfcc08deceec96f621</Anchor>
                  </Node>
                  <Node>
                   <Name>removeCardFromSpellTrapField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>abfa7ceea7ff55fd7f7331496b8e52b33</Anchor>
                  </Node>
                  <Node>
                   <Name>removeCardFromSpellTrapField</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>a16c6a170ab2693d6d28f696176c2ed7d</Anchor>
                  </Node>
                  <Node>
                   <Name>removeMonsterCardFromGraveyard</Name>
-                  <Path>class_playing_field.html</Path>
+                  <Path>dc/db5/class_playing_field.html</Path>
                   <Anchor>aeff1c5ff1573c3c4ecfb3c7e422dabbd</Anchor>
                  </Node>
                 </Subnodes>
@@ -2755,30 +2759,30 @@
              </Node>
              <Node>
               <Name>SetoKaiba.h</Name>
-              <Path>_seto_kaiba_8h.html</Path>
+              <Path>d8/d2b/_seto_kaiba_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>SetoKaiba</Name>
-                <Path>class_seto_kaiba.html</Path>
+                <Path>d5/d51/class_seto_kaiba.html</Path>
               <Subnodes>
                  <Node>
                   <Name>SetoKaiba</Name>
-                  <Path>class_seto_kaiba.html</Path>
+                  <Path>d5/d51/class_seto_kaiba.html</Path>
                   <Anchor>ad521b29d2e84d20b98fc16244662bb75</Anchor>
                  </Node>
                  <Node>
                   <Name>~SetoKaiba</Name>
-                  <Path>class_seto_kaiba.html</Path>
+                  <Path>d5/d51/class_seto_kaiba.html</Path>
                   <Anchor>a150820aa376d07477f05676ab1eb9dcd</Anchor>
                  </Node>
                  <Node>
                   <Name>hasThreeBlueEyesWhiteDragon</Name>
-                  <Path>class_seto_kaiba.html</Path>
+                  <Path>d5/d51/class_seto_kaiba.html</Path>
                   <Anchor>a9d893ea14625498dc4387d9585708180</Anchor>
                  </Node>
                  <Node>
                   <Name>summonBlueEyesUltimateDragon</Name>
-                  <Path>class_seto_kaiba.html</Path>
+                  <Path>d5/d51/class_seto_kaiba.html</Path>
                   <Anchor>a880a7ce0a04590bceeb6d02535a52d30</Anchor>
                  </Node>
                 </Subnodes>
@@ -2787,30 +2791,30 @@
              </Node>
              <Node>
               <Name>SpellCard.h</Name>
-              <Path>_spell_card_8h.html</Path>
+              <Path>d3/dd1/_spell_card_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>SpellCard</Name>
-                <Path>class_spell_card.html</Path>
+                <Path>db/d45/class_spell_card.html</Path>
               <Subnodes>
                  <Node>
                   <Name>SpellCard</Name>
-                  <Path>class_spell_card.html</Path>
+                  <Path>db/d45/class_spell_card.html</Path>
                   <Anchor>a86d26121a2ae922e01751ee18c3d2b2e</Anchor>
                  </Node>
                  <Node>
                   <Name>~SpellCard</Name>
-                  <Path>class_spell_card.html</Path>
+                  <Path>db/d45/class_spell_card.html</Path>
                   <Anchor>a4506689e96426da90b365699ac09bdc8</Anchor>
                  </Node>
                  <Node>
                   <Name>activateEffect</Name>
-                  <Path>class_spell_card.html</Path>
+                  <Path>db/d45/class_spell_card.html</Path>
                   <Anchor>a7697ae440bb553fe95757adf50b517fd</Anchor>
                  </Node>
                  <Node>
                   <Name>getCardDetails</Name>
-                  <Path>class_spell_card.html</Path>
+                  <Path>db/d45/class_spell_card.html</Path>
                   <Anchor>ac9c02441c8baa6d062d780d8dc4a4922</Anchor>
                  </Node>
                 </Subnodes>
@@ -2819,40 +2823,40 @@
              </Node>
              <Node>
               <Name>TrapCard.h</Name>
-              <Path>_trap_card_8h.html</Path>
+              <Path>df/d60/_trap_card_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>TrapCard</Name>
-                <Path>class_trap_card.html</Path>
+                <Path>d4/dd1/class_trap_card.html</Path>
               <Subnodes>
                  <Node>
                   <Name>TrapCard</Name>
-                  <Path>class_trap_card.html</Path>
+                  <Path>d4/dd1/class_trap_card.html</Path>
                   <Anchor>a02bfbcb3885ada7217f1176e2d698e36</Anchor>
                  </Node>
                  <Node>
                   <Name>~TrapCard</Name>
-                  <Path>class_trap_card.html</Path>
+                  <Path>d4/dd1/class_trap_card.html</Path>
                   <Anchor>a536bf640fc9eb2314690c270ceb11bc4</Anchor>
                  </Node>
                  <Node>
                   <Name>activateEffect</Name>
-                  <Path>class_trap_card.html</Path>
+                  <Path>d4/dd1/class_trap_card.html</Path>
                   <Anchor>ad2c6901e2e45c041e998615a35d9ec74</Anchor>
                  </Node>
                  <Node>
                   <Name>blocksAttack</Name>
-                  <Path>class_trap_card.html</Path>
+                  <Path>d4/dd1/class_trap_card.html</Path>
                   <Anchor>abc34e160850fc160a4533e2df3e77500</Anchor>
                  </Node>
                  <Node>
                   <Name>getCardDetails</Name>
-                  <Path>class_trap_card.html</Path>
+                  <Path>d4/dd1/class_trap_card.html</Path>
                   <Anchor>ac1b9a57b1baa97a75b3317f6ec82aa3e</Anchor>
                  </Node>
                  <Node>
                   <Name>isFacedUp</Name>
-                  <Path>class_trap_card.html</Path>
+                  <Path>d4/dd1/class_trap_card.html</Path>
                   <Anchor>ab610dd445d65850c419f80c45763275c</Anchor>
                  </Node>
                 </Subnodes>
@@ -2861,25 +2865,25 @@
              </Node>
              <Node>
               <Name>YugiMuto.h</Name>
-              <Path>_yugi_muto_8h.html</Path>
+              <Path>d2/d55/_yugi_muto_8h.html</Path>
             <Subnodes>
                <Node>
                 <Name>YugiMuto</Name>
-                <Path>class_yugi_muto.html</Path>
+                <Path>d0/d68/class_yugi_muto.html</Path>
               <Subnodes>
                  <Node>
                   <Name>YugiMuto</Name>
-                  <Path>class_yugi_muto.html</Path>
+                  <Path>d0/d68/class_yugi_muto.html</Path>
                   <Anchor>a9679455ae8475b1ba338e909b840e21a</Anchor>
                  </Node>
                  <Node>
                   <Name>~YugiMuto</Name>
-                  <Path>class_yugi_muto.html</Path>
+                  <Path>d0/d68/class_yugi_muto.html</Path>
                   <Anchor>a10f50d8c8dfd0d5d8f0108397c71f64f</Anchor>
                  </Node>
                  <Node>
                   <Name>hasAllPiecesOfExodia</Name>
-                  <Path>class_yugi_muto.html</Path>
+                  <Path>d0/d68/class_yugi_muto.html</Path>
                   <Anchor>a5e39bb4635ae526fa3ee8546f5a12e33</Anchor>
                  </Node>
                 </Subnodes>
@@ -2890,264 +2894,264 @@
            </Node>
            <Node>
             <Name>Card.cpp</Name>
-            <Path>_card_8cpp.html</Path>
+            <Path>d7/d62/_card_8cpp.html</Path>
            </Node>
            <Node>
             <Name>Deck.cpp</Name>
-            <Path>_deck_8cpp.html</Path>
+            <Path>db/d1f/_deck_8cpp.html</Path>
            </Node>
            <Node>
             <Name>GameManager.cpp</Name>
-            <Path>_game_manager_8cpp.html</Path>
+            <Path>d2/d2e/_game_manager_8cpp.html</Path>
            </Node>
            <Node>
             <Name>GUICardInfoPanel.cpp</Name>
-            <Path>_g_u_i_card_info_panel_8cpp.html</Path>
+            <Path>d4/d65/_g_u_i_card_info_panel_8cpp.html</Path>
           <Subnodes>
              <Node>
               <Name>CARD_PLACE_HEIGHT</Name>
-              <Path>_g_u_i_card_info_panel_8cpp.html</Path>
+              <Path>d4/d65/_g_u_i_card_info_panel_8cpp.html</Path>
               <Anchor>a4fdfe9ac0fff2b9a21ec4a0d6840f49a</Anchor>
              </Node>
              <Node>
               <Name>CARD_PLACE_WIDTH</Name>
-              <Path>_g_u_i_card_info_panel_8cpp.html</Path>
+              <Path>d4/d65/_g_u_i_card_info_panel_8cpp.html</Path>
               <Anchor>a3e9bd0ac55b952c528caeb38ce07257f</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIGameState.cpp</Name>
-            <Path>_g_u_i_game_state_8cpp.html</Path>
+            <Path>d6/d1b/_g_u_i_game_state_8cpp.html</Path>
            </Node>
            <Node>
             <Name>GUIGameWindow.cpp</Name>
-            <Path>_g_u_i_game_window_8cpp.html</Path>
+            <Path>dc/d78/_g_u_i_game_window_8cpp.html</Path>
           <Subnodes>
              <Node>
               <Name>CARD_PLACE_HEIGHT</Name>
-              <Path>_g_u_i_game_window_8cpp.html</Path>
+              <Path>dc/d78/_g_u_i_game_window_8cpp.html</Path>
               <Anchor>a4fdfe9ac0fff2b9a21ec4a0d6840f49a</Anchor>
              </Node>
              <Node>
               <Name>CARD_PLACE_WIDTH</Name>
-              <Path>_g_u_i_game_window_8cpp.html</Path>
+              <Path>dc/d78/_g_u_i_game_window_8cpp.html</Path>
               <Anchor>a3e9bd0ac55b952c528caeb38ce07257f</Anchor>
              </Node>
              <Node>
               <Name>WINDOW_HEIGHT</Name>
-              <Path>_g_u_i_game_window_8cpp.html</Path>
+              <Path>dc/d78/_g_u_i_game_window_8cpp.html</Path>
               <Anchor>a5473cf64fa979b48335079c99532e243</Anchor>
              </Node>
              <Node>
               <Name>WINDOW_TITLE</Name>
-              <Path>_g_u_i_game_window_8cpp.html</Path>
+              <Path>dc/d78/_g_u_i_game_window_8cpp.html</Path>
               <Anchor>a3adf7b7b13572f2baf3379a8f2f4220a</Anchor>
              </Node>
              <Node>
               <Name>WINDOW_WIDTH</Name>
-              <Path>_g_u_i_game_window_8cpp.html</Path>
+              <Path>dc/d78/_g_u_i_game_window_8cpp.html</Path>
               <Anchor>a498d9f026138406895e9a34b504ac6a6</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIGraveyard.cpp</Name>
-            <Path>_g_u_i_graveyard_8cpp.html</Path>
+            <Path>d9/d3c/_g_u_i_graveyard_8cpp.html</Path>
           <Subnodes>
              <Node>
               <Name>CARD_PLACE_HEIGHT</Name>
-              <Path>_g_u_i_graveyard_8cpp.html</Path>
+              <Path>d9/d3c/_g_u_i_graveyard_8cpp.html</Path>
               <Anchor>a4fdfe9ac0fff2b9a21ec4a0d6840f49a</Anchor>
              </Node>
              <Node>
               <Name>CARD_PLACE_WIDTH</Name>
-              <Path>_g_u_i_graveyard_8cpp.html</Path>
+              <Path>d9/d3c/_g_u_i_graveyard_8cpp.html</Path>
               <Anchor>a3e9bd0ac55b952c528caeb38ce07257f</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIHand.cpp</Name>
-            <Path>_g_u_i_hand_8cpp.html</Path>
+            <Path>da/dff/_g_u_i_hand_8cpp.html</Path>
           <Subnodes>
              <Node>
               <Name>HAND_PLACE_HEIGHT</Name>
-              <Path>_g_u_i_hand_8cpp.html</Path>
+              <Path>da/dff/_g_u_i_hand_8cpp.html</Path>
               <Anchor>a5963a723aee803c9c4b091b16d030c0c</Anchor>
              </Node>
              <Node>
               <Name>HAND_PLACE_OFFSET</Name>
-              <Path>_g_u_i_hand_8cpp.html</Path>
+              <Path>da/dff/_g_u_i_hand_8cpp.html</Path>
               <Anchor>af3d7014077536150d9035d231cca4a7b</Anchor>
              </Node>
              <Node>
               <Name>HAND_PLACE_WIDTH</Name>
-              <Path>_g_u_i_hand_8cpp.html</Path>
+              <Path>da/dff/_g_u_i_hand_8cpp.html</Path>
               <Anchor>a40868743aa6b935be74dd812bf269a48</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUILifeBar.cpp</Name>
-            <Path>_g_u_i_life_bar_8cpp.html</Path>
+            <Path>d9/ddb/_g_u_i_life_bar_8cpp.html</Path>
            </Node>
            <Node>
             <Name>GUIMainMenuWindow.cpp</Name>
-            <Path>_g_u_i_main_menu_window_8cpp.html</Path>
+            <Path>df/d3d/_g_u_i_main_menu_window_8cpp.html</Path>
           <Subnodes>
              <Node>
               <Name>BUTTON_HEIGHT</Name>
-              <Path>_g_u_i_main_menu_window_8cpp.html</Path>
+              <Path>df/d3d/_g_u_i_main_menu_window_8cpp.html</Path>
               <Anchor>a94be6e055d514b19c7cb5f56f492f016</Anchor>
              </Node>
              <Node>
               <Name>BUTTON_WIDTH</Name>
-              <Path>_g_u_i_main_menu_window_8cpp.html</Path>
+              <Path>df/d3d/_g_u_i_main_menu_window_8cpp.html</Path>
               <Anchor>ae98035e5bee7146fab48f941818a2bc7</Anchor>
              </Node>
              <Node>
               <Name>WINDOW_HEIGHT</Name>
-              <Path>_g_u_i_main_menu_window_8cpp.html</Path>
+              <Path>df/d3d/_g_u_i_main_menu_window_8cpp.html</Path>
               <Anchor>a5473cf64fa979b48335079c99532e243</Anchor>
              </Node>
              <Node>
               <Name>WINDOW_TITLE</Name>
-              <Path>_g_u_i_main_menu_window_8cpp.html</Path>
+              <Path>df/d3d/_g_u_i_main_menu_window_8cpp.html</Path>
               <Anchor>a3adf7b7b13572f2baf3379a8f2f4220a</Anchor>
              </Node>
              <Node>
               <Name>WINDOW_WIDTH</Name>
-              <Path>_g_u_i_main_menu_window_8cpp.html</Path>
+              <Path>df/d3d/_g_u_i_main_menu_window_8cpp.html</Path>
               <Anchor>a498d9f026138406895e9a34b504ac6a6</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIPauseMenu.cpp</Name>
-            <Path>_g_u_i_pause_menu_8cpp.html</Path>
+            <Path>d4/d38/_g_u_i_pause_menu_8cpp.html</Path>
            </Node>
            <Node>
             <Name>GUIPhaseText.cpp</Name>
-            <Path>_g_u_i_phase_text_8cpp.html</Path>
+            <Path>d4/d81/_g_u_i_phase_text_8cpp.html</Path>
            </Node>
            <Node>
             <Name>GUIPlayerPanel.cpp</Name>
-            <Path>_g_u_i_player_panel_8cpp.html</Path>
+            <Path>d1/dc8/_g_u_i_player_panel_8cpp.html</Path>
            </Node>
            <Node>
             <Name>GUIPlayingField.cpp</Name>
-            <Path>_g_u_i_playing_field_8cpp.html</Path>
+            <Path>d6/ddf/_g_u_i_playing_field_8cpp.html</Path>
           <Subnodes>
              <Node>
               <Name>CARD_PLACE_HEIGHT</Name>
-              <Path>_g_u_i_playing_field_8cpp.html</Path>
+              <Path>d6/ddf/_g_u_i_playing_field_8cpp.html</Path>
               <Anchor>a4fdfe9ac0fff2b9a21ec4a0d6840f49a</Anchor>
              </Node>
              <Node>
               <Name>CARD_PLACE_OFFSET</Name>
-              <Path>_g_u_i_playing_field_8cpp.html</Path>
+              <Path>d6/ddf/_g_u_i_playing_field_8cpp.html</Path>
               <Anchor>a3a5880aae3c574d637becfcae0d32629</Anchor>
              </Node>
              <Node>
               <Name>CARD_PLACE_WIDTH</Name>
-              <Path>_g_u_i_playing_field_8cpp.html</Path>
+              <Path>d6/ddf/_g_u_i_playing_field_8cpp.html</Path>
               <Anchor>a3e9bd0ac55b952c528caeb38ce07257f</Anchor>
              </Node>
              <Node>
               <Name>MONSTER_SPELL_FIELD_OFFSET</Name>
-              <Path>_g_u_i_playing_field_8cpp.html</Path>
+              <Path>d6/ddf/_g_u_i_playing_field_8cpp.html</Path>
               <Anchor>af038598f2e77f5ec9a1f8039f3f8b072</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUISettings.cpp</Name>
-            <Path>_g_u_i_settings_8cpp.html</Path>
+            <Path>d9/d49/_g_u_i_settings_8cpp.html</Path>
           <Subnodes>
              <Node>
               <Name>BAR_HEIGHT</Name>
-              <Path>_g_u_i_settings_8cpp.html</Path>
+              <Path>d9/d49/_g_u_i_settings_8cpp.html</Path>
               <Anchor>af6614c9d6fc4f2ec7e3a70230c05b3f7</Anchor>
              </Node>
              <Node>
               <Name>BAR_WIDTH</Name>
-              <Path>_g_u_i_settings_8cpp.html</Path>
+              <Path>d9/d49/_g_u_i_settings_8cpp.html</Path>
               <Anchor>aa67f5290e4cf518cd55c95c8b644d5f2</Anchor>
              </Node>
              <Node>
               <Name>SLIDER_HEIGHT</Name>
-              <Path>_g_u_i_settings_8cpp.html</Path>
+              <Path>d9/d49/_g_u_i_settings_8cpp.html</Path>
               <Anchor>ad2f6a49ee208e0e6e3e21ec6c0fad802</Anchor>
              </Node>
              <Node>
               <Name>SLIDER_WIDTH</Name>
-              <Path>_g_u_i_settings_8cpp.html</Path>
+              <Path>d9/d49/_g_u_i_settings_8cpp.html</Path>
               <Anchor>a391a0cbb1db22916ea80f4c336d87f33</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>GUIWindow.cpp</Name>
-            <Path>_g_u_i_window_8cpp.html</Path>
+            <Path>dc/dce/_g_u_i_window_8cpp.html</Path>
            </Node>
            <Node>
             <Name>GUIWindowElement.cpp</Name>
-            <Path>_g_u_i_window_element_8cpp.html</Path>
+            <Path>d9/d7d/_g_u_i_window_element_8cpp.html</Path>
            </Node>
            <Node>
             <Name>main.cpp</Name>
-            <Path>main_8cpp.html</Path>
+            <Path>df/d0a/main_8cpp.html</Path>
           <Subnodes>
              <Node>
               <Name>WINDOW_HEIGHT</Name>
-              <Path>main_8cpp.html</Path>
+              <Path>df/d0a/main_8cpp.html</Path>
               <Anchor>a5473cf64fa979b48335079c99532e243</Anchor>
              </Node>
              <Node>
               <Name>WINDOW_TITLE</Name>
-              <Path>main_8cpp.html</Path>
+              <Path>df/d0a/main_8cpp.html</Path>
               <Anchor>a3adf7b7b13572f2baf3379a8f2f4220a</Anchor>
              </Node>
              <Node>
               <Name>WINDOW_WIDTH</Name>
-              <Path>main_8cpp.html</Path>
+              <Path>df/d0a/main_8cpp.html</Path>
               <Anchor>a498d9f026138406895e9a34b504ac6a6</Anchor>
              </Node>
              <Node>
               <Name>main</Name>
-              <Path>main_8cpp.html</Path>
+              <Path>df/d0a/main_8cpp.html</Path>
               <Anchor>ae66f6b31b5ad750f1fe042a706a4e3d4</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>MonsterCard.cpp</Name>
-            <Path>_monster_card_8cpp.html</Path>
+            <Path>d2/d93/_monster_card_8cpp.html</Path>
            </Node>
            <Node>
             <Name>Player.cpp</Name>
-            <Path>_player_8cpp.html</Path>
+            <Path>d2/d82/_player_8cpp.html</Path>
            </Node>
            <Node>
             <Name>PlayingField.cpp</Name>
-            <Path>_playing_field_8cpp.html</Path>
+            <Path>dc/dac/_playing_field_8cpp.html</Path>
            </Node>
            <Node>
             <Name>SetoKaiba.cpp</Name>
-            <Path>_seto_kaiba_8cpp.html</Path>
+            <Path>dd/d66/_seto_kaiba_8cpp.html</Path>
            </Node>
            <Node>
             <Name>SpellCard.cpp</Name>
-            <Path>_spell_card_8cpp.html</Path>
+            <Path>d8/d24/_spell_card_8cpp.html</Path>
            </Node>
            <Node>
             <Name>TrapCard.cpp</Name>
-            <Path>_trap_card_8cpp.html</Path>
+            <Path>d6/d1c/_trap_card_8cpp.html</Path>
            </Node>
            <Node>
             <Name>YugiMuto.cpp</Name>
-            <Path>_yugi_muto_8cpp.html</Path>
+            <Path>d4/d4e/_yugi_muto_8cpp.html</Path>
            </Node>
           </Subnodes>
          </Node>

@@ -5,15 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.10.0"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>MiniYuGiOhGame: Main Page</title>
+<title>MiniYuGiOhGame: Mini Yu-Gi-Oh! Game</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
 <script type="text/javascript" src="clipboard.js"></script>
-<link href="navtree.css" rel="stylesheet" type="text/css"/>
-<script type="text/javascript" src="resize.js"></script>
-<script type="text/javascript" src="navtreedata.js"></script>
-<script type="text/javascript" src="navtree.js"></script>
 <script type="text/javascript" src="cookie.js"></script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/searchdata.js"></script>
@@ -53,22 +49,6 @@ $(function() {
 </script>
 <div id="main-nav"></div>
 </div><!-- top -->
-<div id="side-nav" class="ui-resizable side-nav-resizable">
-  <div id="nav-tree">
-    <div id="nav-tree-contents">
-      <div id="nav-sync" class="sync"></div>
-    </div>
-  </div>
-  <div id="splitbar" style="-moz-user-select:none;" 
-       class="ui-resizable-handle">
-  </div>
-</div>
-<script type="text/javascript">
-/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(function(){initNavTree('index.html',''); initResizable(); });
-/* @license-end */
-</script>
-<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
@@ -90,18 +70,75 @@ $(function(){initNavTree('index.html',''); initResizable(); });
 </div>
 </div>
 
-<div class="header">
-  <div class="headertitle"><div class="title">MiniYuGiOhGame Documentation</div></div>
+<div><div class="header">
+  <div class="headertitle"><div class="title">Mini Yu-Gi-Oh! Game </div></div>
 </div><!--header-->
 <div class="contents">
+<div class="textblock"><p><a class="anchor" id="md__c_1_2_users_2_mehmet_01_ali_01_yilmaz_2_desktop_2_mini_yu_gi_oh_game_2_r_e_a_d_m_e"></a> A turn-based card game project inspired by the Yu-Gi-Oh! Trading <a class="el" href="d5/d6a/class_card.html" title="Abstract Card Class.">Card</a> Game, implemented in C++.</p>
+<p><img src="https://github.com/emredemirbas/MiniYuGiOhGame/assets/103829617/2b866768-daa3-405e-8b92-f6cdeccb162d" alt="samplecards" class="inline"/></p>
+<p><img src="https://github.com/emredemirbas/MiniYuGiOhGame/assets/103829617/5930879e-46d0-4126-ae65-321adf2eb435" alt="1" class="inline"/></p>
+<p><img src="https://github.com/emredemirbas/MiniYuGiOhGame/assets/103829617/489d2eaf-0ff9-4d81-a3c4-73164cfaae5f" alt="2" class="inline"/></p>
+<p><img src="https://github.com/emredemirbas/MiniYuGiOhGame/assets/103829617/59582d62-4f6d-47c5-906c-0adc60ae718b" alt="3" class="inline"/></p>
+<p><img src="https://github.com/emredemirbas/MiniYuGiOhGame/assets/103829617/03b41584-372b-4171-b9f8-f64cfff14c29" alt="4" class="inline"/></p>
+<p><img src="https://github.com/emredemirbas/MiniYuGiOhGame/assets/103829617/1c16e8ea-0912-4639-842f-20078eb887ee" alt="5" class="inline"/></p>
+<p><img src="https://github.com/emredemirbas/MiniYuGiOhGame/assets/103829617/c905de2f-9a3e-4821-a6d5-bd26d345a1f1" alt="6" class="inline"/></p>
+<p><img src="https://github.com/emredemirbas/MiniYuGiOhGame/assets/103829617/495fde33-a9f2-4df5-a914-ae06b0c1fd0c" alt="7" class="inline"/></p>
+<p><img src="https://github.com/emredemirbas/MiniYuGiOhGame/assets/103829617/378bfe9f-6a2d-470e-80e7-1e6d1f6fa954" alt="8" class="inline"/></p>
+<p><img src="https://github.com/emredemirbas/MiniYuGiOhGame/assets/103829617/7b496772-21b8-4dca-9fa6-f909422dbc03" alt="9" class="inline"/></p>
+<p><img src="https://github.com/emredemirbas/MiniYuGiOhGame/assets/103829617/fb7a1a42-b96c-49f6-aa5f-579d0929c607" alt="10" class="inline"/></p>
+<p>Phases of The Game</p>
+<ol type="1">
+<li>Draw Phase</li>
+</ol>
+<p>• Draw Phase is at the very beginning of each turn. The turn player draws one card from the top of their deck during this time.</p>
+<ol type="1">
+<li>Main Phase</li>
+</ol>
+<p>• Main Phase is a phase that occurs right after Draw Phase. In this phase, player must choose a card to play from his/her hand (with left click). User should left click on the card that he/she wants to play.</p>
+<p>• Option 1: If current player chooses a monster card to play, this monster card will be played in ATK mode if ATK point &gt; DEF point. Otherwise, this monster will be played in defense mode.</p>
+<p>• Option 2: If the current player decides to use a spell card, the special ability of that spell card is activated as soon as it is played.</p>
+<p>• Option 3: If the current player prefers to use a trap card, it will be placed in his/her field in face-down position. So that opposing player would not know which trap card have been played. Unique functionality of this trap card will be activated when the current player receives attack by the opposing player in battle phase.</p>
+<p>• User is also able to change mode of one of his/her active monster(optional). Maximum one monster is allowed in each main phase. User should right click on that monster if he/she wants to change mode one of the monsters.</p>
+<ol type="1">
+<li>Battle Phase</li>
+</ol>
+<p>• Battle phase is the third and last phase of the player's turn. In this phase, you can declare attacks.</p>
+<p>• You should choose an attacker monster from your monster field (with left click). If there are no monsters in opponent's monster zone, a direct attack is declared. Which means, inflicting damage equal to the attacking monster's ATK points.</p>
+<p>• But if there are monster(s) in your opponent's field, you should choose a target right after you choose an attacker from your field.</p>
+<p>• When the current player declares an attack in this phase but opposing player has a trap card in his/her field, then unique functionality of this trap card will be activated and opposing player will block the attack of current player.</p>
+<p>Note that Battle Phase of a player is automatically skipped in following cases:</p>
+<p>• If it's the first or second round, the Battle Phase is automatically skipped, adding an extra layer of strategy to early-game play.</p>
+<p>• If current player has no attacking monster in his field (means that his monster field may be fully empty or there are monsters that in defense mode.)</p>
+<p><img src="https://github.com/emredemirbas/MiniYuGiOhGame/assets/103829617/9956872b-4d9c-42e3-a5bd-ef9d983f6535" alt="11" class="inline"/></p>
+<p>How to win the duel?</p>
+<ol type="1">
+<li>Life Point Victory</li>
+</ol>
+<p>• Each player starts with a 8000 life points.</p>
+<p>• The primary goal is to reduce your opponent's life points to zero.</p>
+<p>• You achieve this by successfully attacking your opponent's monsters or declaring direct attacks during the Battle Phase.</p>
+<p>• Additionally, certain card effects may reduce or increase life points.</p>
+<ol type="1">
+<li><a class="el" href="d6/deb/class_deck.html" title="A class representing a deck of cards.">Deck</a> Exhaustion</li>
+</ol>
+<p>• Also, you win if your opponent doesn't have any cards left in their deck, along with reducing their life points to zero.</p>
+<p>• If a player tries to draw a card and has none left in their deck, the other player wins.</p>
+<ol type="1">
+<li>Exodia Victory</li>
+</ol>
+<p>• There's a legendary win condition known as "Exodia."</p>
+<p>• If a player successfully assembles all five pieces of Exodia in their hand (Head, Right Leg, Left Leg, Right Arm, Left Arm) at the same time, that player immediately wins the duel.</p>
+<p>• It's a rare and powerful strategy, so keep an eye on the cards you and your opponent draw.</p>
+<p>Note that only Yugi Moto has Exodia cards in this game.</p>
+<p>How to run the game?</p>
+<p>1) Install exec folder.</p>
+<p>2) run MiniYuGiOhGame.exe </p>
+</div></div><!-- PageDoc -->
 <a href="doxygen_crawl.html"/>
 </div><!-- contents -->
-</div><!-- doc-content -->
 <!-- start footer part -->
-<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
-  <ul>
-    <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.10.0 </li>
-  </ul>
-</div>
+<hr class="footer"/><address class="footer"><small>
+Generated by&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.10.0
+</small></address>
 </body>
 </html>
