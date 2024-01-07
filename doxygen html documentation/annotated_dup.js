@@ -1,0 +1,27 @@
+var annotated_dup =
+[
+    [ "Card", "class_card.html", "class_card" ],
+    [ "Deck", "class_deck.html", "class_deck" ],
+    [ "GameManager", "class_game_manager.html", "class_game_manager" ],
+    [ "GUICardInfoPanel", "class_g_u_i_card_info_panel.html", "class_g_u_i_card_info_panel" ],
+    [ "GUIGameState", "class_g_u_i_game_state.html", "class_g_u_i_game_state" ],
+    [ "GUIGameWindow", "class_g_u_i_game_window.html", "class_g_u_i_game_window" ],
+    [ "GUIGraveyard", "class_g_u_i_graveyard.html", "class_g_u_i_graveyard" ],
+    [ "GUIHand", "class_g_u_i_hand.html", "class_g_u_i_hand" ],
+    [ "GUILifeBar", "class_g_u_i_life_bar.html", "class_g_u_i_life_bar" ],
+    [ "GUIMainMenuWindow", "class_g_u_i_main_menu_window.html", "class_g_u_i_main_menu_window" ],
+    [ "GUIPauseMenu", "class_g_u_i_pause_menu.html", "class_g_u_i_pause_menu" ],
+    [ "GUIPhaseText", "class_g_u_i_phase_text.html", "class_g_u_i_phase_text" ],
+    [ "GUIPlayerPanel", "class_g_u_i_player_panel.html", "class_g_u_i_player_panel" ],
+    [ "GUIPlayingField", "class_g_u_i_playing_field.html", "class_g_u_i_playing_field" ],
+    [ "GUISettings", "class_g_u_i_settings.html", "class_g_u_i_settings" ],
+    [ "GUIWindow", "class_g_u_i_window.html", "class_g_u_i_window" ],
+    [ "GUIWindowElement", "class_g_u_i_window_element.html", "class_g_u_i_window_element" ],
+    [ "MonsterCard", "class_monster_card.html", "class_monster_card" ],
+    [ "Player", "class_player.html", "class_player" ],
+    [ "PlayingField", "class_playing_field.html", "class_playing_field" ],
+    [ "SetoKaiba", "class_seto_kaiba.html", "class_seto_kaiba" ],
+    [ "SpellCard", "class_spell_card.html", "class_spell_card" ],
+    [ "TrapCard", "class_trap_card.html", "class_trap_card" ],
+    [ "YugiMuto", "class_yugi_muto.html", "class_yugi_muto" ]
+];
