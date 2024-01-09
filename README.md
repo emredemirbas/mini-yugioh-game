@@ -99,6 +99,12 @@ How to run the game?
 
 2) run MiniYuGiOhGame.exe
 
+Contributions of Group Members
+
+Emre Demirbaş and Mehmet Ali Yılmaz focused on developing the backend of the game, handling tasks related to game logic and implementing the functionality of each card in the game.
+
+Ömer Faruk Özüyağlı and Muhammed Esat Çelebi were responsible for the frontend development of the game. They worked on creating the user interface for players.
+
 
 
 
