@@ -23,6 +23,9 @@
 
 ![10](https://github.com/emredemirbas/MiniYuGiOhGame/assets/103829617/fb7a1a42-b96c-49f6-aa5f-579d0929c607)
 
+For now, there are two characters in this game: Yugi Muto and Seto Kaiba.
+
+Each of the characters has their own deck and there are unique cards in their deck.
 
 Phases of The Game
 
